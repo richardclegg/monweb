@@ -1,0 +1,26 @@
+# jemdoc: title{MoN8: Eighth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN8: Eighth Mathematics of Networks meeting -- 18th September 2009, Cambridge University
+
+== Danica Greetham (Unilever) -- Simulating word-of-mouth influence on individual physical activity
+
+We want to model external social network influence on individual physical activity behaviour. We use the agent-based approach - each individual is represented by an agent and social network between them is given in advance and it does not change during the simulation. We compared effects of different theoretical and empirical underlying social networks’ topologies.
+
+ 
+
+Each agent has a continuous variable representing behaviour measured as a number of hours of physical exercises per week and two continuous (abstract) values representing ideal and actual self. An agent’s goal is to improve difference between ideal and actual self by doing some amount of physical activity. The social network effect is introduced using a model of dual threshold, where an individual is “persuaded” to do the activity if the percentage of his neighbours doing it is higher than the first threshold, and if the percentage is lower than the second threshold, he/she is persuaded to abstain from physical activity.  We than introduce another variable which represents an agent’s intention toward doing behaviour and look at the effects of different social networks topologies to intention and behaviour separately.
+
+ 
+
+Both models (behaviour only and behaviour and intention) were implemented in NetLogo and simulations were run with different distributions of thresholds and values for individual actual and ideal selves.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

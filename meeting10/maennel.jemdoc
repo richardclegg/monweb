@@ -1,0 +1,37 @@
+# jemdoc: title{MoN10: Tenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN10: Tenth Mathematics of Networks meeting, 16th September, Loughborough University
+
+== Olaf Maennel (Loughborough) - 10 Lessons from 10 Years of Measuring and Modeling the Internet’s  Autonomous Systems
+
+Formally, the Internet inter-domain routing system
+is a collection of networks, their policies, peering relationships
+and organizational affiliations, and the addresses they advertize.
+It also includes components like Internet exchange points. By its
+very definition, each and every aspect of this system is impacted
+by BGP, the de-facto standard inter-domain routing protocol.
+The element of this inter-domain routing system that has
+attracted the single-most attention within the research 
+community has been the "inter-domain topology". Unfortunately, almost
+from the get go, the vast majority of studies of this topology,
+from definition, to measurement, to modeling and analysis, have
+ignored the central role of BGP in this problem. The legacy is a
+set of specious findings, unsubstantiated claims, and ill-conceived
+ideas about the Internet as a whole.
+By presenting a BGP-focused state-of-the-art treatment of the
+aspects that are critical for a rigorous study of this inter-domain
+topology, we demystify in this paper many "controversial"
+observations reported in the existing literature. At the same
+time, we illustrate the benefits and richness of new scientific
+approaches to measuring, modeling, and analyzing the inter-domain 
+topology that are faithful to the BGP-specific nature of
+this problem domain.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

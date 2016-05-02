@@ -1,0 +1,27 @@
+The concept of linguistic evolution far predates the now more familiar paradigm
+of biological evolution. By the time of Darwin the idea of languages undergoing
+birth, change, splitting into separate dialects and eventually distinct
+languages, and death, had achieved widespread enough credence that he was able
+to cite it as an illustrative example of the evolutionary process. As in
+biological evolution, binary trees provide a useful and informative approximate
+representation of the historical relationships between existing languages,
+ignoring the complications of lateral transfer of linguistic features
+(analogous to hybridisation). Here we investigate several statistical
+techniques (minimal spanning trees; maximum parsimony trees; and simulated
+history using Markov chain Monte Carlo) for inference of the phylogeny of
+languages, using as our data set the early Germanic languages (Anglian, Kentish
+and West Saxon dialects of Old English; Old Frisian; Old Saxon; Old High
+German; Old Norse; and Gothic) as documented by H. F. Nielsen. It is common in
+the literature, both mathematical and linguistic, to base such analyses on
+lexical data, using Swadesh lists. We instead use morphological and
+phonological data and compare our results with those obtained by lexical
+comparison. The phylogeny is tested for robustness by filtering data by
+different grammatical categories. Results from both methods are consistent with
+one another and robust against different choices of distance metric, provided
+that enough traits are present in the filtered data set, and show a good
+agreement with the accepted history of Germanic languages. By comparison to
+known history of migrations of Germanic peoples, we find that phonological
+traits are more sensitive than morphological traits to later contact, i.e.
+following separation and divergence of languages. This may provide a means of
+distinguishing the influence of inheritance and lateral transfer on the
+development of a language.

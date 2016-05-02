@@ -1,0 +1,52 @@
+Title: Cascades on correlated and modular networks
+
+Speaker: Prof. J.P. Gleeson, University of Limerick, Ireland
+
+Abstract:
+
+An analytical approach to determining the mean avalanche size in a 
+broad class of dynamical models on random networks is introduced. 
+Previous results on percolation transitions and epidemic sizes are 
+shown to be special cases of the method. The time-dependence of 
+cascades and extensions to networks with community structure or 
+degree-degree correlations are discussed. Analytical results for the 
+rate of spread of innovations (Watts, 2002) in a modular network and 
+for the size of k-cores (Dorogotsev et al, 2006) in networks with 
+degree-degree correlations are confirmed with numerical simulations.
+
+ 
+
+The dynamics of cascades are strongly dependent upon the topological 
+structure of the underlying network and on the details of how the 
+cascade spreads among the nodes of the network. In the class of 
+examples considered here, each node of the network can be in one of 
+two states, either active (also termed damaged or infected) or 
+inactive (undamaged or susceptible), with nodes updating their states 
+depending on the number and state of the node's immediate neighbors 
+in the (undirected) network. Networks are chosen from an ensemble of 
+graphs with specified degree distribution (i.e. using the 
+configuration model (Newman et al, 2001)), and both synchronous and 
+asynchronous updating may be considered. We show that for a class of 
+such models the average cascade size may be determined analytically 
+(averages being taken over an ensemble of realizations) (Gleeson and 
+Cahalane, 2007). This basic model is also extended to networks with 
+strong community structure or with degree-degree correlations. 
+Previous results on percolation and k-core sizes are shown to be 
+special cases of our general approach.
+
+ 
+
+References:
+
+S.N. Dorogovtsev, A.V. Goltsev, and J.F.F. Mendes (2006): k-Core 
+organization of complex networks. Phys. Rev. Lett., 96, 040601.
+
+J.P. Gleeson and D.J. Cahalane (2007): Seed size strongly affects 
+cascades on random networks.  Phys. Rev. E., 75, 056103.
+
+M.E.J. Newman, S.H. Strogatz, and D.J. Watts (2001): Random graphs 
+with arbitrary degree distributions and their applications. Phys. 
+Rev. E, 64, 026118.
+
+D.J. Watts (2002): A simple mode of global cascades on random 
+networks. Proc. Nat. Acad. Sci. 99, 5766.

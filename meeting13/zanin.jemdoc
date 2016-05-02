@@ -1,0 +1,20 @@
+# jemdoc: title{MoN13: Thirteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN13: Thirteenth Mathematics of Networks meeting, Wednesday 10th September 2014, Imperial
+
+==  Massimiliano Zanin (The Innaxis Foundation) Multi-layer functional networks: have we got the basics right? 
+
+In the last decade, complex network theory has evolved towards more comprehensive ways of representing complex systems. Instead of just mapping explicit structures, like communication or road networks, it is now possible to recreate functional networks, in which links connect pairs of nodes whose dynamics appear to be interdependent. The latest frontier is represented by multi-layer networks, in which nodes are connected through multiple links of different nature. It has recently been shown that disregarding the multi-layer structure of a system can distort its understanding, as the dynamics of even simple processes, e.g. propagation of failures or information, strongly depends on the chosen network representation. Thus, multi-layer representations are expected to be instrumental in many contexts: in social networks, to model the different types of relations between individuals, and thus better understand information propagation; in transportation systems, where different transportation modes create a network with different layers; or in biology, when considering different types of processes.
+
+Less attention has hitherto been devoted to the relationship between functional and multi-layer networks. Specifically, when the multi-layer dynamics of nodes cannot easily be estimated, it is customary to project such dynamics and thus analyze a single-layer network. It is then important to understand the magnitude of the distortions created by the use of a single-layer representation; in other words, to assess the benefits yielded by studying a multi-layer functional network, against the simplicity guaranteed by the reconstruction and use of the corresponding single layer projection.
+
+Here, I address this issue by using as a test case, the functional network representing the dynamics of delay propagation through European airports. Along with the complete multi-layer structure, two projections are considered: respectively corresponding to the collapse of the dynamics of nodes, and of the topologies of individual layers. A topological analysis of the two projections reveals that they are not representative of the complete system; misleading in important aspects like node centralities or network connectivity. Furthermore, when a dynamical model mimics a delay propagation process on top of these projections, the error in the estimation of the dynamics is as large as the estimation itself. Neglecting the multi-layer structure of a functional network has thus dramatic consequences on our understanding of the underlying system, a fact that should be taken into account when a projection is the only available information.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

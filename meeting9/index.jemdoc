@@ -1,0 +1,93 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting -- 18th June 2010, University of St Andrews
+
+The Ninth Mathematics of Networks meeting will be held on 
+18th June 2010 at the University of St Andrews.  Thanks to 
+Saleem Bhatti and Mirco Musolesi for acting as hosts on this
+occasion.  The conference is held in cooperation with [http://www.sicsa.ac.uk/ SICSA].
+This meeting has the theme "the Mathematics of Mobile Networks"
+and aproximately half the talks will be on this theme but all topics about
+the mathematics of networks are of interest.  The meeting has been
+arranged to follow [http://www.cs.stir.ac.uk/events/network-analysis/
+Modelling and Analysis of Networked and Distributed Systems]
+in Stirling on 17th June 2010.
+If you wish to advertise MoN9 in your department
+you can [flyer.pdf download a flyer].
+The meeting will be in "Physics Theatre A" in the 
+School of Physics & Astronomy.  Maps of how to get
+to the campus and the campus itself are available 
+[http://www.st-andrews.ac.uk/maps/ here].
+
+This informal 
+[../ series of meetings] gives researchers a forum to present new work 
+which uses mathematics to investigate networks. The meetings encourage 
+interdisciplinary communications and talks have been from many fields 
+including computer networks, road networks, economic networks and 
+biological networks.  
+
+If you would like to attend or present at a meeting or be added to the list 
+of contactees then please email [richard@richardclegg.org] or 
+[mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" 
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}].
+There is also a 
+[http://www.jiscmail.ac.uk/lists/mon.html mailing list] 
+for people who wish to keep abreast of these meetings and 
+developments in the Mathematics of Networks.
+ 
+
+=== Programme
+
+~~~
+{}{table}{montable}
+10:30 -- 11:00 | Welcome and coffee ||
+11:00 -- 11:45 | John Tang (Cambridge) Studying mobile and social networks through time-aware network analysis [tang.html (abstract)] [tang_talk.pdf (talk --PDF)]||
+11:45 -- 12:30 | Philip Trinder (Heriot-Watt) - Analysis of redundant movements in collections of autonomous mobile programs [trinder.html (abstract)] [trinder_talk.pdf (talk -- PDF)]||
+12:30 -- 13:45 | Lunch ||
+13:45 -- 14:30 | Keith Briggs (BT Research) - Optimal trip-planning in transport systems with random delays [briggs.html (abstract)] [briggs_talk.pdf (talk -- PDF)] ||
+14:30 -- 15:15 | Rashid Mehmood (Swansea) - Verifying feature interactions in intra- and inter-vehicular networked systems [mehmood.html (abstract)]  ||
+15:15 -- 15:45 | Coffee break ||
+15:45 -- 16:30 | Richard Clegg (UCL) - Likelihood methods for comparing network evolution models [clegg.html (abstract)] [clegg_talk.pdf (talk -- PDF)] ||
+16:30 -- 17:15 | Raul Landa (UCL) - Economic modeling of managed overlays [landa.html (abstract)] [landa_talk.pdf (talk --PDF)]||
+17:15 | Closing remarks and drinks in nearby hostelry 
+~~~
+
+
+
+=== Confirmed Attendees
+
+- Saleem Bhatti (St Andrews) 
+- Keith Briggs (BT)
+- Richard Clegg (UCL)
+- Mirco Musolesi (St Andrews)
+- Greg Bigwood (St Andrews)
+- Savia Dimatteo (St Andrews)
+- Simon Dobron (St Andrews)
+- Nimbe Ewald (Aberdeen)
+- Jozsef Farkas (Stirling)
+- Marwan Fayed (Stirling)
+- Erol Gelenbe (Imperial)
+- David Hunter (Essex)
+- Alexander Konovalov (St Andrews)
+- Santosh Kawade (BT)
+- Raul Landa (UCL)
+- Ursula Martin (QMUL)
+- Rashid Mehmood (Swansea)
+- Alessandro Moura (Aberdeen)
+- Iain Parris (St Andrews)
+- Colin Perkins (Glasgow)
+- Raffaello Secchi (Aberdeen)
+- Joe Sventek (Glasgow)
+- John Tang (Cambridge)
+- Alan Terry (Dundee)
+- Philip Trinder (Heriot-Watt)
+- Yi Yu (St Andrews)
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

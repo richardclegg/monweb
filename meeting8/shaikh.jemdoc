@@ -1,0 +1,23 @@
+# jemdoc: title{MoN8: Eighth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN8: Eighth Mathematics of Networks meeting -- 18th September 2009, Cambridge University
+
+== Ahmed Shaikh (Aston) - Significance of second-order statistics in Markov internet traffic modelling
+
+As major network operators migrate from the traditional circuit switched networks to the converged IP network, global IP traffic is set to grow at a very rapid pace. This calls for efficient methods of analysis and modelling of IP traffic. Most of the IP traffic analysis is performed with the aid of mathematical traffic models which can be set up for simulation in order to emulate the network sources. In order to provide reliable, valid and realistic modelling data for analysis, the IP traffic models used should capture as many features of the network as possible through measured results.
+
+The traffic models mainly deal with two main parameters for modelling and understanding the network behaviour, namely the packet sizes and the packet inter-arrival distributions. The packet inter-arrival times are particularly significant since it gives the timing structure of the network, evaluates the effect of Round Trip Time on the network, provides a good idea of the underlying network protocol and application, and also highlights any abnormal or unexpected behaviour of the network, thus making it extremely useful for network forensics. Traditionally Poisson distribution and Pareto distribution models have been used to model the packet arrival times. Eventually Markov Models also became a popular method of modelling traffic as each state in the Markov Model can be associated with a packet source in the network, and the network can be modelled with a finite number of sources, with exponential inter-arrival times of packets. The simplest Markov Model, a two-state Markov Model based on the packet inter-arrival times can be associated with a client-server model where a REQ packet is acknowledged with an ACK packet. Model complexity increases with increasing number of states and we initially show how some measured results can be better represented by simplified low order Semi-Markov Models with Gaussian distributions derived from the Poisson Markov Models.
+
+The use of Joint density plots (Second order statistics) for the Inter-packet times,  reveals that there is a lot more information available from them which the first order statistics do not provide, such as presence of periodic processes and the order of the packet sequences. For example, a TCP packet in one direction is always likely to be followed by an ACK packet in the other direction, and while this is not indicated by first order statistics, it can be easily observed with the use of second order statistics. To stress the significance of the joint density plots, we show how two Markov Models with states emitting packets randomly and in sequence respectively have exactly the same Probability Density plots, yet totally different Joint density plots which provide information on the underlying sequence of packets in the network. We also show how these Markov Models can be used to model other specific features observed from the measured second order statistics and present relevant conclusions.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

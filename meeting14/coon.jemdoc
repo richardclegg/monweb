@@ -1,0 +1,36 @@
+# jemdoc: title{MoN14: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14: Fourteenth Mathematics of Networks meeting
+
+== Justin Coon (Oxford) Entropy of random geometric graphs
+
+Random geometric graphs embedded in a bounded region have been extensively investigated
+in the context of wireless communication network modelling in recent years. Most results have
+focused on the necessary conditions that must be met for information flow across the network
+to be possible, i.e., the condition of full connectivity. A less well-understood aspect of these
+fascinating graphs is their inherent information content, or entropy. The study of this important
+quantity has applications ranging from connectivity analysis in sparse networks to network
+topology discovery and routing protocol development.
+In this lecture, we will explore the entropy of spatially embedded random geometric graphs.
+We will begin by giving a definition of graph entropy in this context, which naturally links
+to the properties of the space in which the graph is embedded, and relate this to the entropy
+of Erd ̈os-R ́enyi graphs. We will then focus on uniform vertex configurations in compact
+domains and show that for certain pairwise connection functions of interest (dependent upon
+the inter-vertex distance and relevant physical system parameters) the entropy can be calculated
+for small typical connection ranges relative to the features of the bounding geometry. Both
+deterministic and probabilistic pairwise connection functions will be considered. We will then
+develop a significant new result that gives precise conditions on the typical pairwise connection
+range that yields a positive, finite entropy as the number of vertices grows large; conversely,
+this result also gives inter-node connection conditions that yield zero entropy asymptotically.
+Moving on to arbitrary node configurations, we will study the behaviour of the entropy in the
+network as the typical connection range grows beyond the diameter of the bounding geometry.
+Finally, numerous topics for future investigation will be discussed.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

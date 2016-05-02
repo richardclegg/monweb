@@ -1,0 +1,66 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== Raul Landa (UCL) - Economic modeling of managed overlays
+
+
+Most game theoretical models of peer-to-peer overlays
+focus on the incentives tensions between peers,
+thus not including the ISP as an active player 
+(interesting exceptions can be found in recent work
+regarding ISP-content distribution and the selfish routing
+literature). However, given the large amount of
+bandwidth that peer-to-peer systems can
+command, the ISPs have taken a much more
+active role in the management of peer-to-peer, spanning
+from techniques such as bandwidth capping or
+throttling to cooperative approaches such as
+P4P/ALTO.
+
+Although the modelling of the incentive dynamics of
+coexisting managed overlays with a single
+underlying ISP is interesting in its own right, we seek
+to model the preferences of overlays in the more
+general setting where they can choose to allocate their
+traffic matrix between a set of different ISPs. By
+considering such an "unbundled ISPs" model together with
+multiple competing P4P-enabled overlays, it
+becomes possible to consider a much wider array of
+preferences, thus achieving a more general model
+for the incentives of managed overlays.
+We consider that a model of managed overlay preferences
+that allows ISPs to predict the traffic
+matrices that an overlay will demand as a given of a
+given price structure by itself and its competing
+ISPs would be of great help for network dimensioning,
+profit optimisation and traffic engineering.
+
+== Biography
+
+
+Raul Landa ([raul.landa@ieee.org]) is currently a 
+Research Associate in the Department of Electronic and Electrical 
+Engineering at University College London. After working in the 
+development of network management software platforms from 2000 to 2005, 
+Dr Landa joined the MASTS and PeerLive research projects in UCL. His 
+research interests revolve around the application of models from 
+economics and sociology to the solution of networking problems. Dr Landa 
+received a B.S. in Communications Engineering by ITESM (Mexico City), 
+an M.S. in Data Communications from the University of Sheffield (UK) 
+and a Diploma in Information Security from UNAM (Mexico City), in 
+1998, 2000 and 2004 respectively, and a PhD degree from UCL in 2010. 
+Dr Landa’s publications can be found
+[http://www.ee.ucl.ac.uk/~rlanda/publications.html here].
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

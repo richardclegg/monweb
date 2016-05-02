@@ -1,0 +1,61 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== Rashid Mehmood (Swansea) - Verifying feature interactions in intra- and inter-vehicular networked systems
+
+This is joint work with Atif Alvi, LUMS,
+Pakistan and David Greaves, University of Cambridge, UK.
+
+Intra-vehicular networks are no more simple and static. They are increasingly complex because they
+comprise increasing number of intelligent sensors, electronic control units (ECUs), and comfort and
+entertainment appliances. They are increasingly becoming dynamic because the network architecture
+is evolving to allow runtime binding of additional application, services, and networks. The drivers for
+these developments include the changing landscape of software and hardware, miniaturisation of
+electronic devices, demand for latest in-vehicle consumer electronics, and gaps between automotive
+and consumer electronics lifecycles.
+
+Inter-vehicular networks are driven by the Intelligent Transportation Systems agenda with the aim of
+providing enhanced safety, transport efficiency, comfort and facilities. Rapid developments in
+computing and wireless communication technologies have enabled the possibilities for vehicles
+travelling at high speeds to form ad hoc networks, on the fly, in order to coordinate and collaborate for
+shared benefits. For examples, vehicles can coordinate on junctions, roundabouts and slip roads to
+improve traffic flow and reduce accident possibilities.
+
+Inter-vehicular networks form a complex pervasive computing environment where feature interaction
+takes place between independent and intelligent vehicle entities or vehicle sub-networks. Similarly,
+intra-vehicular networks form another layer or hierarchy of pervasive environment where feature
+interaction takes place between sensors, ECUs, consumer electronic appliances. We can think of a
+feature as a unit of functionality - a facet of behaviour - of a system. This means that the functionality
+of different entities in a vehicular network represent features and have the potential to interact in a
+conflicting manner. It is a major research challenge to predict, identify and resolve feature interactions,
+as these may be damaging to various system dimensions including privacy, security, functionality,
+and facility.
+
+We report on our work using feature interaction methodologies to design and verify vehicular
+networks, both intra- and inter-vehicular, against the user defined policies for privacy, security,
+functionality and facility. Our approach is a hierarchical one where, to address scalability, we divide
+the system in multiple hierarchies and verify the whole system by approaching individual entities and
+subsystems, one at a time. The hierarchical design ensures that all the network entities
+(microcontrollers, sensors, actuators, ECUs, vehicle) are formally verified to cause no feature
+interaction with other entities and to obey some standing rules defined by the designers of the system.
+An ontology substrate is used to hold the attributes of the system to perform various types of
+reasoning over them: consistency checking, classification, and enforcing higher abstraction rules in
+first order logic that are authored by the designers and by the passengers. These higher abstraction
+rules form the system level.
+
+We will elaborate through examples as to how our methods could be used to predict, identify and
+resolve system requirements such as privacy, security, functionality and facility. The work is ongoing
+and is being extended in terms of other pervasive environment and the improvements in methodology.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

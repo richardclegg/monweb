@@ -1,0 +1,17 @@
+# jemdoc: title{MoN14: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14: Fourteenth Mathematics of Networks meeting
+
+== Carl Dettmann, Orestis Georgiou (Bristol) Border effects in ad-hoc networks
+
+Wireless networks are fundamentally limited by the intensity of the received signals and by their inherent interference. If node placement is modelled according to a Poisson point process, then to a first approximation, links may be made within a fixed range, Gilbert's (1961) random geometric graph (RGG). Recently, attention has focused on a more realistic generalisation in which links are made with a distance-dependent probability; this exhibits qualitative differences from the original model.  Analytical expressions for the connection probability may be found in general geometries, characterising the phenomenon that nodes near the boundaries are more likely to be out of range of any others. Interference effects are, however, particularly kind to border nodes giving rise to all sorts of performance inhomogeneities and access unfairness. We quantify these spatial variations and provide closed form communication-theoretic results showing why the receiver’s location is so important.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

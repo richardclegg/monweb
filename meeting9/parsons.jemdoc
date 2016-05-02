@@ -1,0 +1,43 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== Mark Parsons (Reading) - Social networks: evolving graphs with memory dependent edges 
+ 
+The plethora, and mass take up, of digital communication tech- 
+nologies has resulted in a wealth of interest in social network data 
+collection and analysis in recent years. Within many such networks 
+the interactions are transient: thus those networks evolve over time. 
+In this paper we introduce a class of models for such networks using 
+evolving graphs with memory dependent edges, which may appear and 
+disappear according to their recent history. We consider time discrete 
+and time continuous variants of the model. We consider the long 
+term asymptotic behaviour as a function of parameters controlling 
+the memory dependence. In particular we show that such networks 
+may continue evolving forever, or else may quench and become static 
+(containing immortal and/or extinct edges). This depends on the 
+existence or otherwise of certain inﬁnite products and series involving 
+age dependent model parameters. To test these ideas we show how 
+model parameters may be calibrated based on limited samples of time 
+dependent data, and we apply these concepts to three real networks: 
+summary data on mobile phone use from a developing region; online 
+social-business network data from China; and disaggregated mobile 
+phone communications data from a reality mining experiment in the 
+US. In each case we show that there is evidence for memory dependent 
+dynamics, such as that embodied within the class of models proposed 
+here. 
+
+The full paper is downloadable from
+[http://www.reading.ac.uk/maths/research/maths-preprints.aspx here].
+It is submitted to Proc Roy Soc A, and under review.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

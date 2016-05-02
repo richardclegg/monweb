@@ -1,0 +1,112 @@
+# jemdoc: title{MoN10: Tenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN10: Tenth Mathematics of Networks meeting -- Loughborough University 
+
+The Tenth Mathematics of Networks meeting was held on Friday
+16th September 2011 at Loughborough University-  Thanks to 
+Iain Phillips for acting as host on this
+occasion. 
+This meeting had the theme "Modelling Network Traffic and Internet Architecture".
+Thank you to Loughborough
+Computer Science department for sponsoring this meeting.
+If you wish to advertise MoN10 in your department
+you can [flyer_ready.pdf download a flyer].
+
+If you would like to present at a future MoN please email your abstract to 
+[mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png"
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}] or
+[richard@richardclegg.org].
+
+This informal 
+[../ series of meetings] gives researchers a forum to present new work 
+which uses mathematics to investigate networks. The meetings encourage 
+interdisciplinary communications and talks have been from many fields 
+including computer networks, road networks, economic networks and 
+biological networks.
+
+If you would like to attend then please email 
+[mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" 
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}]
+or [richard@richardclegg.org].
+To receive updates on this meeting or to hear about future meetings 
+in the series, please join the 
+[http://www.jiscmail.ac.uk/lists/mon.html mailing list].
+
+~~~
+{}{table}{montable}
+10:30 -- 11:00 | Welcome and coffee ||
+11:00 -- 11:45 | Niels Hoffmann (Paxassign Consulting) A dynamic stochastic multipath network decision process [hoffmann.html (abstract)] [hoffmann.ppt (slides)]||
+11:45 -- 12:30 | Mike Smith (York) Proof of convergence of a natural splitting-rate adjustment algorithm in ..- networks [smith.html (abstract)] [smith.ppt (slides)]||
+12:30 -- 13:45 | Lunch ||
+13:45 -- 14:30 | Alexander Hartmann (Oldenburg) Large deviation properties of random graphs [hartmann.html (abstract)] [hartmann.pdf (slides)] ||
+14:30 -- 15:15 | Ben Parker (QMUL) Design of networked experiments [parker.html (abstract)] [parker.pdf (slides)]||
+15:15 -- 15:45 | Coffee break ||
+15:45 -- 16:30 | Vasileios Giotsas (UCL)  Inferring autonomous system relationships from border gateway protocol attributes [giotsas.html (abstract)] [giotsas.pdf (slides)]||
+16:30 -- 17:15 | Olaf Maennel (Loughborough) 10 lessons from 10 years of measuring and modelling the internet's autonomous systems [maennel.html (abstract)] [maennel.pdf (slides)]  ||
+17:15 | Closing remarks and drinks in nearby hostelry 
+~~~
+ 
+ 
+=== Travelling to Loughborough University
+
+Directions to Loughborough are [http://www.lboro.ac.uk/about/findus.html here].
+
+An interactive campus map can be found [http://maps.lboro.ac.uk/ here]
+and a printable version [http://www.lboro.ac.uk/about/map/downloads/campusmap.pdf here (PDF)].
+
+We will hold the workshop in 
+[http://maps.lboro.ac.uk/place/bridgeman-centre/ the Bridgeman Centre (room XX019)].
+
+If you travel by rail, the campus can be reached by walking (approximately 30 minutes), taxi (ask for Bridgeman on the Loughborough campus) or bus (take 
+shuttle bus Kinchbus Number 7 from the station and get off at the 
+Student's Union, the first stop after the bus enters the main campus).
+
+If you drive then car park number 9 is closest, ask for directions at the Gatehouse.
+
+=== Organisers
+
+- Keith Briggs (BT)
+- Richard Clegg (UCL)
+- Iain Phillips (Loughborough)
+
+=== Confirmed Attendees
+
+- Ahmed Abubakar (Loughborough)
+- Sarah Chisholm (UCL)
+- Boyd Duffee (Keele)
+- Frederic Francois (Surrey)
+- Vasileios Giotsas (UCL)
+- Ali Hammad (Essex)
+- Uli Harder (Imperial)
+- Lin Guan (Loughborough)
+- Alexander Hartmann (Oldenburg)
+- Niels Hoffmann (Paxassign Consulting)
+- David Hunter (Essex)
+- Paul Jakma (Glasgow)
+- Antonio Liotta (Eindhoven)
+- Olaf Maennel (Loughborough)
+- Glenford Mapp (Middlesex)
+- Ibrahim Musa (Essex)
+- Mirco Musolesi (Birmingham)
+- Ben Parker (QMUL)
+- Shuping Peng (Essex)
+- Colin Perkins (Glasgow)
+- Christopher Pluntke (UCL)
+- Igor Razgon (Leicester)
+- Martin Reed (Essex)
+- Ana Salagean (Loughborough)
+- Mike Smith (York)
+- Joseph Spring (Hertfordshire)
+- Alexander Stepanenko (Aston)
+- Johnny Shichun Wang (Loughborough)
+- Kun Yang (Essex)
+- Shi Zhou (UCL)
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" 
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G- Clegg] ([richard@richardclegg.org])  
+

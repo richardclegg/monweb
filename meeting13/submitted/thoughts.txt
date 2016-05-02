@@ -1,0 +1,84 @@
+Speakers are first listed where many authors: 1, 5, 6 and 7 originate from the same group of workers.
+Two of them are on the theme multiplex networks.  Some speakers did not give titles (we did not, after all,
+ask for such).
+
+3) Structure of complex networks: Quantifying edge-to-edge relations by failure-induced flow
+redistribution 
+Michael T. Schaub (Imperial), Jörg Lehmann, Sophia N. Yaliraki, and Mauricio Barahona
+
+Definite accept: Not on theme really but good work
+
+10) Untitled talk on language evolution
+Dario Papavassiliou (Warwick)
+
+Definite accept: Interesting topic, on theme, the sort of talk we should have
+at MoN.
+
+-----
+
+
+1) Structural measures for multiplex networks  
+F. Battiston (QMUL), V. Nicosia, V. Latora 
+
+Probably Accept (or merge): Looks really interesting, slightly on theme
+
+
+
+4) Multi-layer functional networks: have we got the basics right?  
+Massimiliano Zanin (The Innaxis Foundation)
+[Speaker only 95% sure but will let us know by Friday]
+
+Probable Accept: Interesting, not quite on theme
+
+5) Interdisciplinarity and specialisation: Roads to scientific success 
+Moreno Bonaventura (QMUL) , Vincenzo Nicosia, Vito Latora and Pietro Panzarasa 
+
+Probable Accept (possible merge): Not quite on theme but really very interesting.
+
+9) What is the dimension of citation space?
+James Clough (Imperial), Tim Evans
+
+Probable accept: I love the idea of tying in the physics angle here --
+not quite on theme which is the only thing that takes it from definite to probable.
+
+6) Homophily and social dependence: Revisiting mechanisms of tie creation in social networks 
+Valerio Ciotti (QMUL), Vito Latora, and Pietro Panzarasa
+
+Probably Accept (possible merge): Not quite on theme but interesting stuff
+
+7) Simmelian brokerage	and	social capital:	Reconciling	social cohesion	and	structural holes	
+Vito Latora (QMUL), Vincenzo Nicosia, Pietro Panzarasa	
+
+Probable accept (possible merge): Not quite on theme, interesting research
+
+11) Untitled talk on regional economic growth
+Arnaud Dyevre (LSE)
+
+Probable accept (weakest in this class): I *think* he is correlating an
+economics measure with a graph measure which is interestinng.
+
+------
+
+8) Can Chaos Theory Revolutionise Traffic Management In Urban Signalised Networks?
+Narh, A. T,  Hill, G. A., Thorpe N., Bell, M. C.
+
+Probable reject: Not sure what is the network aspect here
+
+13) Individual vs. Social Heuristics:  Exploring Strategies of Optimal Information Sharing and Pooling in Stochastic Unstructured Networks
+Ashish Umre (Sussex)
+
+Probable reject: Not much information to  tell about what is going on here and we have more offers where we have more information.
+
+-------
+
+12) Investigating the dynamics of chat room user’s behaviour using response waiting time in communication network
+Gibson O. Ikoro (QMUL), Raul Mondragon, Graham White
+
+Definite reject: While I'm sure this is statistically reasonable, I'm not sure it teaches us
+anything about networks.
+
+
+2) Nonlinear vibration of a happiness model with commensurate fractional-order derivative  
+Andrew Leung (Huddersfield)
+
+Definite reject: Doesn't make any sense, no mention of network

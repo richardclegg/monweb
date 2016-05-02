@@ -1,0 +1,55 @@
+# jemdoc: title{MoN13: Thirteenth Mathematics of Networks meeting}
+# jemdoc: notime
+# jemdoc: addpackage{amssymb}
+
+= MoN13: Thirteenth Mathematics of Networks meeting, Wednesday 10th September, Imperial
+
+== Moreno Bonaventura (QMUL) Interdisciplinarity and specialisation: Roads to scientific success
+
+=== Co-authors Vincenzo Nicosia, Vito Latora, and Pietro Panzarasa (QMUL)
+
+Previous work has examined the advantages that scientists gain from specialisation in terms of research productivity,
+promotion, tenure standards, and academic earnings. On the other hand, research has also suggested that exposure to
+diverse sources of knowledge stimulates creativity, facilitates innovation, enables individuals to solve complex and multi-
+faceted problems, and sustains novel recombinations of multiple ideas, theories, and methods from various fields. At the
+same time, recent studies have indicated that teams typically produce more frequently cited research than individuals
+do. However, relatively little attention has been devoted to the way multi-authorship combines with access to knowledge
+to affect scientists’ research performance. Scientists can select their collaborators within their own research fields to
+strengthen their skills, enhance consensus on scientific standards and techniques, and facilitate the generation of shared
+norms of research practice. Alternatively, scientists can produce interdisciplinary work by engaging in collaborations
+with other scientists from different fields. Despite the ubiquity of interdisciplinary collaborations, research has largely
+overlooked the collaboration patterns through which scientists produce interdisciplinary work, and how these patterns
+ultimately affect research performance. In this paper, we take a step in this direction, and investigate whether and
+the extent to which disciplinary fields and collaboration networks combine to affect scientists’ career trajectories and
+ability to produce work of high impact.
+Our study draws upon the collaboration network of the scientists that authored or co-authored all articles published
+in the Physical Review journals of the American Physical Society from 1975 to 2009. We also extract the number
+of citations received by scientists over time, and the self-assigned categories of research fields, namely the Physics
+and Astronomy Classification Scheme (PACS) codes appearing in the publications. For each scientist $i$, we measure
+the background interdisciplinarity by computing the Shannon entropy $B_i$ over the set of the scientist’s PACS codes
+extracted from his or her publications. We also investigate the extent to which collaboration networks enable scientists
+to expand the breadth of their interdisciplinarity by offering access and exposure to a variety of disciplinary fields. To
+this end, for each scientist $i$ we measure the social interdisciplinarity by evaluating the Shannon entropy $S_i$ over the set
+of PACS codes appearing in all publications of the scientist’s collaborators.
+Results indicate that scientists cannot improve their performance simply by expanding the breadth of their back-
+ground interdisciplinarity. While specialisation (i.e., $B_i \sim 0$) is associated with scientific success, only high degrees
+of interdisciplinarity (i.e., $B_i > 1$) can amplify scientists’ performance. Moderate levels of interdisciplinarity (i.e., $B_i \sim 0.5$) are instead likely to hinder performance. Moreover, when scientists choose to broaden their horizons through
+their collaborators, they can improve their performance by forging collaboration networks that span a wide variety
+of disciplinary fields (i.e., $S_i \gtrsim 0$). We examine the interplay between background and social interdisciplinarity, and
+find that very successful scientists (i.e., those with citations $> 1,000$) tend to align the disciplinary breadth of their
+work with their collaboration networks. If they specialise in their fields, they tend to choose collaborators that share
+the same fields, whereas if they are interdisciplinary, they choose collaborators across multiple fields. We then analyse
+collaboration strategies over time, and identify those leading to high levels of interdisciplinarity and success. Results
+suggest that successful scientists, once exposed to new knowledge, tend to absorb it from their collaborators to a greater
+extent, yet at a lower pace, than less successful scientists do. Moreover, successful scientists enhance interdisciplinarity
+not so much by absorbing collaborators’ experience as by promoting synergies with them that sustain the creation of
+new knowledge. Implications of our findings for research on collaboration networks and strategies, interdisciplinarity,
+and the structural foundations of scientific production are discussed.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

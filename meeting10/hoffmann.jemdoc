@@ -1,0 +1,39 @@
+# jemdoc: title{MoN10: Tenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN10: Tenth Mathematics of Networks meeting, 16th September, Loughborough University
+
+== Niels Hoffmann  (Paxassign Consulting) - A dynamic stochastic multipath network decision process: A framework which adheres to the central limit theorem throughout a network
+
+
+The DV3 framework for routing pedestrians in complex networks has been used
+since the beginning of the nineties in modelling passenger flows and densities
+in railway stations, airports and at major events such as
+Olympic\/Commonwealth games and a million plus population at the projected
+Mecca expansion . The method is shown to be a probit model dealing
+appropriately with multiple paths and their correlation, reflecting the
+behaviour of infinitely many travellers. This is achieved by combining $E(X)$
+and $V(X)$ in an assignment process over the network as an integral part of
+the tree\/vine building process towards each destination subject to no
+circular path being generated. In the process splitting rate/progression
+probabilities are calculated at each stage  from $E$, $V$ and $C$, where
+$C$=capacity or quality factor. A deterministic function for calculating Path
+Progression Probabilities $PPP= G(E,V,C)$ is presented and shown to give
+results corresponding well with the equivalent Monte Carlo simulation
+probabilities. $C$ deals with the problem of the well-known IIA problem.
+Finally, each destination process enables travellers from everywhere to
+reach its destination by evaluating multiple paths at every stage of the
+progression either by flow or individual agents.
+Since the process is linear in $E$ and $V$ we assume that changes to journey
+times in the simulation\/model is scalable and the process hence able to cope
+with the dynamics of a seamless update of simulated or observed journey
+times.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

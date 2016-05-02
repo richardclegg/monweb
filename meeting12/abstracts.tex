@@ -1,0 +1,199 @@
+\documentclass[10pt]{article}
+\usepackage{array,multicol}
+\usepackage[margin=1cm]{geometry}
+\newenvironment{packed_item}{
+\begin{itemize}
+  \setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+}{\end{itemize}}
+
+\begin{document}
+
+
+\begin{center}
+\huge{MoN12: Twelfth Mathematics of Networks}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{tabular}{| m{0.1 \textwidth}  | m{0.85 \textwidth}  |} \hline
+10:15 &	Welcome and coffee \\
+10:50 &	Introductory remarks \\
+11:00 &	Antonio Lima (Birmingham) – The anatomy of a scientific rumor \\
+11:40 &	Danica Vukadinovic Greetham (Reading) – On Twitter conversations  \\
+12:20 &	Athen Ma (Queen Mary, University of London) – Can a not-the-most-connected scientist still be important? 	 \\
+13:00 &	Lunch  \\
+14:00 &	Tom Brughmans (Southampton) – Exploring visibility networks in Iron Age and Roman Southern Spain $\ldots$  \\
+14:40 &	Andrew Elliott (Oxford) – A novel null model to test the significance of features of sampled networks 	 \\
+15:20 &	Steve Gilmour (Southampton) – Optimal design of experiments on social networks 	 \\
+16:00 &	Coffee  \\
+16:20 &	David Saad (Aston) – Polymer physics for route optimisation on the London underground  \\
+17:00 &	Stephen Pasteris (UCL) – Similarity prediction of networked data 	 \\
+17:40 &	Closing remarks  \\
+17:50 & Drinks in nearby hostelry   \\ \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{multicols}{2}
+
+\subsection*{Organisers}
+
+\begin{packed_item}
+\item    Keith Briggs (BT)
+\item    Richard Clegg (UCL)
+\item    Ben Parker (Southampton)
+\end{packed_item}
+
+\subsection*{Attending meeting}
+
+\begin{packed_item}
+\item  Nora Alrajebah (Southampton
+\item  Zack Batist (McMaster University)
+\item  Clive Blackwell (Oxford Brookes)
+\item  Tom Brughmans (Southampton)
+\item  Joanna Bryson (Bath)
+\item  Ruth Edwards (Southampton)
+\item  Andrew Elliott (Oxford)
+\item  Tim Evans (Imperial)
+\item  Nawfal Fadhel (Southampton)
+\item  Beate Franke (Southampton)
+\item  Shaona Ghosh (Southampton)
+\item  Steve Gilmour (Southampton)
+\item  Simone Giansante (Bath)
+\item  Mark Herbster (UCL)
+\item  Rebecca Hoyle (Surrey)
+\item  James McInerney (Southampton)
+\item  Christine Johnston (UCLA)
+\item  Jeremy Jordan (European Office of Aerospace R \& D)
+\item  Mitaal Kinderkhedia (UCL)
+\item  Dariusz Krol (Bournemouth)
+\item  Antonio Lima (Birmingham)
+\item  Athen Ma (Queen Mary, University of London)
+\item  Pierre-André Maugis (UCL)
+\item  Katarzyna Musial-Gabrys (King’s College)
+\item  Kalliopi Mylona (Southampton)
+\item  Frank Oertel (Southampton)
+\item  Stephen Pasteris (UCL)
+\item  David Saad (Aston)
+\item  Crystal Safadi (Southampton)
+\item  Joan Saldana (Universitat de Girona)
+\item  Ruben Sanchez-Garcia (Southampton)
+\item  Alastair Spence (Bath)
+\item  Joe Spring (Hertfordshire)
+\item  Ashish Umre (Sussex)
+\item  Willem Vletter (Vienna)
+\item  Danica Vukadinovic Greetham (Reading)
+\item  Chen Yu (UCL)
+\item  Shi Zhou (UCL)
+\end{packed_item}
+
+\subsection*{Antonio Lima (Birmingham) – The anatomy of a scientific rumor}
+
+The announcement of the discovery of a Higgs boson-like particle at CERN will be remembered as one of the milestones of the scientific endeavor of the 21st century. In this seminar I will present a study of information spreading processes on Twitter before, during and after the announcement of the discovery of a new particle with the features of the elusive Higgs boson on 4th July 2012. This study has found evidence for non-trivial spatio-temporal patterns in user activities at individual and global level, such as tweeting, re-tweeting and replying to existing tweets. A possible explanation for the observed time-varying dynamics of user activities during the spreading of this scientific ``rumor" is provided. This study proposes a model for the information spreading in the corresponding network of individuals who posted a tweet related to the Higgs boson discovery. The proposed model is able to reproduce the global behavior of about 500,000 individuals with remarkable accuracy.
+
+\subsection*{Danica Vukadinovic Greetham (Reading) – On Twitter conversations}
+
+Twitter is both a micro-blogging service and a platform for public conversation. Direct conversation is facilitated in Twitter through the use of @’s (mentions) and replies. While the conversational element of Twitter is of particular interest to the marketing sector, relatively few data-mining studies have focused on this area. We analyse conversations associated with reciprocated mentions that take place in a data-set consisting of approximately 4 million tweets collected over a period of 28 days that contain at least one mention. We ignore tweet content and instead use the mention network structure and its dynamical properties to identify and characterise Twitter conversations between pairs of users and within larger groups. We consider conversational balance, meaning the fraction of content contributed by each party. The goal of this work is to draw out some of the mechanisms driving conversation in Twitter, with the potential aim of developing conversational models.
+
+\subsection*{Athen Ma (Queen Mary, University of London) – Can a not-the-most-connected scientist still be important?}
+
+Networks with small-world properties, such as the World Wide Web or Power utilities suppliers, often exhibit a good level of resistance to random failures, but are much more susceptible to malicious attacks [1,2]. Studies to identify vulnerable points in complex networks usually are based on centrality measures where high centrality nodes have been seen as the weak points when attacking a network [3-5]. Recent evidence provided by Ghedini and Ribeiro [6] has suggested that, in some networks, the removal of lower degree nodes can also cause network instability that can lead to reduced network efficiency and fragmentation.
+
+The notion of communities has been exploited to characterise a network’s structure. Communities can be hierarchical and at the edges of communities, nodes with multiple (community) memberships are often found, resulting in overlapping communities. Removing overlapping nodes at the boundary areas would fracture a network into different components. The aim is to find these “overlapping” nodes within communities as these nodes sustain the overall network robustness.
+
+We have developed a network tearing approach to locate “cuts” in a network. These nodes are then used to define the robustness of the communities and the network. Nodes found at a community’s boundary are referred to as “cut-nodes” and have a gradient of degree values. We quantify the importance of a node by referring their inter- and intra-community connectivity. Results show that removing the inter-communities cut-nodes disjoints the network due to the isolation or splitting of the communities. This fragmentation has a significant impact on the network efficiency. This is in stark contrast to the removal of intra-community nodes, though with high degrees, they have a negligible effect on the network robustness. When applied to the network of scientific collaborators [7], our results show that a not-the-most-connected scientist can also be key to the network [8].
+
+    [1] R. Pastor-Satorras, A. Vazquez, A. Vespignani, Dynamical and correlation properties of the internet, Physical Review Letters 87 (2001) 258701.
+
+    [2] R. Albert, I. Albert, G. Nakarado, Structural vulnerability of the North American power grid, Physical Review E 69 (2004) 025103.
+
+    [3] R. Albert, H. Jeong, A. Barabasi, Error and attack tolerance of complex networks, Nature 406 (2000) 378–382.
+
+    [4] S. Sun, Z. Liu, Z. Chen, Z. Yuan, Error and attack tolerance of evolving networks with local preferential attachment, Physica A: Statistical and Theoretical Physics 373 (2007) 851–860.
+
+    [5] M. Perc, Evolution of cooperation on scale-free networks subject to error and attack, New Journal of Physics 11 (2009) 033027.
+
+    [6] C. Ghedini, C. Ribeiro, Rethinking failure and attack tolerance assessment in complex networks, Physica A: Statistical Mechanics and its Applications (2011).
+
+    [7] M. Newman, Finding community structure in networks using the eigenvectors of matrices, Physical Review E 74 (2006) 036104.
+
+    [8] A. Ma and R.J. Mondragón, Evaluation of network robustness using a node tearing algorithm, Physica A, Vol. 391 (24) 2012  pp. 6674-6681
+
+\subsection*{Tom Brughmans (Southampton) – Exploring visibility networks in Iron Age and Roman Southern Spain with Exponential Random Graph Models}
+
+Many archaeological applications of formal network techniques consist of an exploration of empirically attested archaeological entities linked by relationships (of whatever nature the researcher considers meaningful). Among the most common issues with these exploratory approaches are how different data types can be used to create networks or validate hypothetical relational processes and how long-term change in connectivity can be explored. Through a case study on urban connectivity in Roman Southern Spain, this paper will discuss how Exponential Random Graph Models (ERGM) can help overcome such issues.
+
+Traditional approaches to the archaeology of Roman Southern Spain have neglected the study of inter-urban connections (Keay 1998). Iron Age (ca. 5th c.BC to 3rd c.BC) and Roman (ca. 3rd c.BC to 5th c.AD) sites as well as different archaeological data types are often studied independently, which is necessary for a critical understanding of these different sources. However, all these sources were also once part of a single long-term cultural process. A multi-scalar exploratory network method is introduced that aims to explore aspects of the changing interactions between 190 sites dated to a range of ten centuries as evidenced through ten archaeological data types. This paper will focus in particular on networks of visibility. In this type of networks a pair of sites is connected when one site can be seen from the other. This exploratory approach is enhanced through the use of ERGM (Robins et al. 2007) for the analysis of subnetworks (particular configurations of connections between small sets of nodes). The assumptions archaeologists formulate about how relationships emerge relative to their position in the network (hypothetical past processes) can be tested using these subnetworks. With these models the frequency of certain subnetworks in random graphs and the empirically attested network is compared, to examine the probability that the subnetworks might have emerged through random processes. In doing this the border region between exploratory and confirmatory network analysis is explored. This paper will critically evaluate the potential and limitations of such an approach for archaeology.
+
+\subsection*{Andrew Elliott – (Oxford) A novel null model to test the significance of features of sampled networks.}
+
+Network sampling is used in many different fields such as Physics, Sociology and Biology to create sub-networks that are believed to be related to a property of interest. To assess whether the subnetwork indeed captures some information we need to compare it to subnetworks which are generated at random, from a suitable null model. Thus we are concerned with null models for sampling techniques that are based on a list of nodes known as a seed list. However, the effect of network sampling on even fairly simplistic network statistics is poorly understood. In particular, a popular null model, the configuration model, is not appropriate for sampled networks as it does not preserve the structure of the sampling process.
+
+Here, we propose a different null model which is appropriate for estimating the significance of summary statistics on seed list sampled network structure.The null model in question involves comparing the statistic of interest against an ensemble of networks constructed using a set of randomly chosen seed lists with the same approximate degree sequence as the seed list in question. Here we need to avoid artificially inflated seed lists which can occur by including nodes as seeds which are already in the subnetwork. As we are interested in features of the subsample e.g. a smaller clustering than would be expected at random, we must control for seed list construction. To control for seed list choice, we propose removing all seed nodes that are not required to construct the subsample (redundant seed nodes).
+
+We have explored the effect of these additional seed nodes in two ways. Firstly, we have taken randomly selected seed lists and selectively added or removed seed nodes which do not change the network structure but change the significance of our tests. Secondly we have taken seed lists motivated by real world data sets in the form of disease gene data from the OMIM database and data in University Facebook networks. We have demonstrated that in real world examples the redundant seed nodes do have a strong impact on the significance of a general set of network statistics, and therefore should be taken into account.
+
+When controlling for redundant seeds we are indeed able to select subnetworks that capture some information which is specific to the disease or the Facebook network. We are also able to discriminate between different techniques for constructing subnetworks, namely snowball sampling and shortest path constructions.
+
+Thus we believe we have created a null model which can be used to evaluate the significance of summary statistics of seed list sampled network structure.
+
+\subsection*{Steve Gilmour (Southampton) – Optimal design of experiments on social networks}
+
+Joint work with Ben Parker and John Schormans
+
+We investigate how connections between subjects in a social network affect the design of experiments on those subjects. Specifically, where we have unstructured treatments, whose effect propagates according to a linear network effects model, we show that optimal designs are no longer necessarily balanced; we further demonstrate how experiments which do not take a network effect into account can lead to much higher variance than necessary and/or a large bias.
+
+\subsection*{David Saad (Aston) – Polymer physics for route optimisation on the London underground}
+
+Optimizing paths on networks is crucial for many applications, from subway traffic to Internet communication. As global path optimization that takes account of all path-choices simultaneously is computationally hard, most existing routing algorithms optimise paths individually, thus providing sub-optimal solutions. This work includes two different aspects of routing. In the first [1] we employ the cavity approach to study analytically the routing of nodes on a graph of given topology to predefined network routers and devise the corresponding distributive optimisation algorithm. In the second [2] we employ the physics of interacting polymers and disordered systems (the replica method) to analyse macroscopic properties of generic path-optimisation problems between arbitrarily selected communicating pairs; we also derive a simple, principled, generic and distributive routing algorithm capable of considering simultaneously all individual path choices. Two types of nonlinear interactions are considered with different objectives: 1) alleviate traffic congestion at both cyber and real space and provide better route planning; and 2) save resources by powering down non-essential and redundant routers/stations at minimal cost. This saves energy and man-power, and alleviates the need for investment in infrastructure. We show that routing becomes more difficult as the number of communicating nodes increases and exhibits interesting physical phenomena such as ergodicity breaking. The ground state of such systems reveals non-monotonic complex behaviours in average path-length and algorithmic convergence, depending on the network topology, and densities of communicating nodes and routers. We demonstrate the efficacy of the new algorithm [2] by applying it to: (i) random graphs resembling Internet overlay networks; (ii) travel on the London underground network based on Oyster-card data; and (iii) the global airport network. Analytically derived macroscopic properties give rise to insightful new routing phenomena, including phase transitions and scaling laws, which facilitate better understanding of the appropriate operational regimes and their limitations that are difficult to obtain otherwise.
+
+    [1] C. H. Yeung, D. Saad, The Competition for Shortest Paths on Sparse Graphs, Phys. Rev. Lett., 108, 208701 (2012).
+
+    [2] C. H. Yeung, D. Saad and K. Y. M. Wong, From the Physics of Interacting Polymers to Optimizing Routes on the London Underground, Proceedings of the National Academy of Science, in press (2013).
+
+\subsection*{Stephen Pasteris (UCL) – Similarity prediction of networked data}
+
+We consider online similarity prediction problems over networked data. The study of networked data has spurred a large amount of research efforts. Applications like spam detection, product recommendation, link analysis, community detection, are by now well-known tasks in Social Network analysis and E-Commerce. In all these tasks, networked data are typically viewed as graphs, where vertices carry some kind of relevant information (e.g., user features in a social network), and connecting edges reflect a form of semantic similarity between the data associated with the incident vertices.
+
+Such a similarity ranges from friendship among people in a social network to common user’s reactions to online ads in a recommender system, from functional relationships among proteins in a protein-protein interaction network to connectivity patterns in a communication network. Coarsely speaking, similarity prediction aims at inferring the existence of new pairwise relationships based on known ones. These pairwise constraints, which specify whether two objects belong to the same class or not, may arise directly from domain knowledge or be available with little human effort.
+
+There is a wide range of possible means of capturing the structure of a graph in this learning context: through combinatorial and classical graph-theoretical methods (e.g., [GY03]); through spectral approachs (e.g. [BMN04, HAvL07]), using convex duality and resistive geometry (e.g., [HL09]), and even algebraic methods (e.g., [KSB09]). In many of these approaches, the underlying assumption is that the graph structure is largely known in advance (a kind of “transductive” learning setting), and serves as a way to bias the inference process, so as to implement the principle that “connected vertices tend to be similar.” Yet, this setting is oftentimes unrealistic andor infeasible. For instance, a large online social network with millions of vertices and tens of millions of edges hardly lends itself to be processed as a whole via a Laplacian-regularized optimization approach or, even if it does (thanks to the computationally powerful tools currently available), it need not be known ahead of time. As a striking example, if we are representing a security agency, and at each point in time we receive a “trace” of communicating individuals, we still might want to predict whether a given pair in the trace belong to the same “gang”community, even if the actual network of relationships is unknown to us. So, in this case, we are incrementally learning similarity patterns among individuals while, at the same time, exploring the network. Another important scenario of an unknown network structure is when the network itself grows with time, hence the prediction algorithms are expected to somehow adapt to its temporal evolution.
+
+Our results. We study online similarity prediction over graphs in two models. One in which the graph is known a priori to the learner, and one in which it is unknown. In both settings there is an undisclosed labeling of a graph so that each vertex is the member of one of K classes. Two vertices are similar if they are in the same class and dissimilar otherwise.
+
+The learner receives an online sequence of vertex pairs and similarity feedback. On the receipt of a pair the learner then predicts if the pair is similar. The true pair label, similar or dissimilar, is then received and the goal of the learner is to minimize mistaken predictions. Our aim in both settings is then to bound the number of prediction mistakes over an arbitrary (and adversarially generated) sequence of pairs.
+
+In the model where the graph is known, we first characterize the obtainable bounds for similarity prediction. This is accomplished by showing that our online similarity prediction problem reduces to online class prediction on graphs (e.g., [HL09, VCBGZ11], and references therein), and vice versa. However, this reduction does not provide efficient computational constructions (which is a major concern here). The problem then becomes to obtain bounds for algorithms which are computationally efficient. Now motivated to obtain computationally efficient algorithms, we resort to matrix learning algorithms. We show that a suitable adaptation of the Matrix Winnow algorithm [War07] readily provides an almost optimal mistake bound. This adaptation amounts to sparsifying the underlying graph G via a random spanning tree, whose diameter is then reduced by a known rebalancing technique [HLP09, CBGVZ10]. Unfortunately, with its computational burden (cubic time per round), the resulting algorithm does not provide a satisfactory answer to deployment on large networks. Therefore, we develop an analogous adaptation of a Matrix Perceptron algorithm that delivers a more attractive answer (thanks to its poly-logarithmic time per round), though with an inferior online prediction performance guarantee.
+
+The unknown model is identical to the known one, except that the learner does not initially receive the underlying graph G. Rather, G is incrementally revealed, as now when the learner receives a pair it also receives as side information an adversarially generated path within G connecting the vertices of the pair. Here, we observe that the machinery we used for the known graph case is inapplicable. In this novel setting, we design and analyze an algorithm which may be interpreted as a matrix version of an adaptive p-norm Perceptron [Gen03] with the relatively efficient quadratic running time per round.
+
+References:
+
+    [BMN04] M. Belkin, I. Matveeva, and P. Niyogi. Regularization and semi-supervised learning on large graphs. In COLT, 2004.
+
+    [CBGVZ10] N. Cesa-Bianchi, C Gentile, F. Vitale, and G. Zappella. Random spanning trees and the prediction of weighted graphs. In Proceedings of the 27th International Conference on Machine Learning (27th ICML), pages 175–182, 2010.
+
+    [Gen03] C. Gentile. The robustness of the p-norm algorithms. Machine Learning, 53:265–299, 2003.
+
+    [GHP13] C. Gentile, M. Herbster, and S. Pasteris. Online similarity prediction of networked data from known and unknown graphs. In COLT, 2013.
+
+    [GY03] J. L. Gross and J. Yellen. Handbook of graph theory. CRC Press, 2003.
+
+    [HAvL07] M. Hein, J.Y. Audibert, and U. von Luxburg. Graph laplacians and their convergence on random neighborhood graphs. Journal of Machine Learning Research, 8:1325–1368, 2007.
+
+    [HL09] M. Herbster and G. Lever. Predicting the labelling of a graph via minimum p-seminorm interpolation. In Proceedings of the 22nd Annual Conference on Learning Theory (COLT’09), 2009.
+
+    [HLP09] M. Herbster, G. Lever, and M. Pontil. Online prediction on large diameter graphs. In Advances in Neural Information Processing Systems (NIPS 22), pages 649–656. MIT Press, 2009.
+
+    [KSB09] R. Kondor, N. Shervashidze, and K. M. Borgwardt. The graphlet spectrum. In ICML 2009, 2009.
+
+    [VCBGZ11] F. Vitale, N. Cesa-Bianchi, C. Gentile, and G. Zappella. See the tree through the lines: The shazoo algorithm. In NIPS, pages 1584–1592, 2011.
+
+    [War07] M. K. Warmuth. Winnowing subspaces. In Proceedings of the 24th International Conference on Machine Learning, pages 999–1006. ACM, 2007.
+
+
+\end{multicols}
+
+\end{document}

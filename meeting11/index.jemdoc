@@ -1,0 +1,100 @@
+# jemdoc: title{MoN11: Eleventh Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN11: Eleventh Mathematics of Networks meeting -- University of Warwick
+
+The Eleventh Mathematics of Networks meeting was held on Friday
+20th July 2012 at the University of Warwick.
+Thanks to Colm Connaughton
+for acting as host on this occasion.
+The meeting had the theme "Complex Networks".
+
+Mathematics of Networks is an informal 
+[../ series of meetings] which encourages
+interdisciplinary communication in networking research.  It is an
+excellent venue for presenting new ideas or gaining a wider audience
+for established research.  Presentations on any aspect of networking are
+welcomed, particularly if the techniques or conclusions are applicable
+in other networking disciplines.  Slides and information from previous
+meetings [../ are available].
+
+If you would like to present at
+a future MoN please contact
+[mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png"
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}] or
+[richard@richardclegg.org].
+
+To receive updates on this meeting or to hear about future meetings 
+in the series, please join the 
+[http://www.jiscmail.ac.uk/lists/mon.html mailing list].
+
+The final schedule is shown below.
+
+~~~
+{}{table}{montable}
+11:00 -- 11:30 | Welcome and coffee ||
+11:20 -- 11:30 | Introductory remarks ||
+11:30 -- 12:15 | Tiago Pereira (Imperial) -- Hub synchronization in heterogeneous networks [pereira.html abstract] [pereira.pdf presentation(PDF)] ||
+12:15 -- 13:00 | James West (UCL) -- Entropy in the cancer cell [west.pdf abstract] [west2.pdf presentation(PDF)] [west2.pptx presentation(PPTX)]||
+13:00 -- 14:15 | Lunch ||
+14:15 -- 15:00 | Manlio de Domenico (Birmingham) -- Interdependence and predictability of human mobility and social interactions [domenico.html abstract] [dedominico.pdf presentation (PDF)]||
+15:00 -- 15:45 | Erol Gelenbe (Imperial) -- Networks of networks in the digital society [gelenbe.html abstract] ||
+15:45 -- 16:15 | Coffee break ||
+16:15 -- 17:00 | Gordon Govan (Herriot-Watt) -- A critical study of network models for neural networks [govan.html abstract] [govan.pdf presentation (PDF)] ||
+17:00 -- 17:45 | Timothy Griffin (Cambridge) -- Local optimality in algebraic path problems, with help from Coq + SSreflect [griffin.html abstract] [griffin.pdf presentation (PDF)] ||
+17:45 -- 17:50 | Closing remarks ||
+17:50 onwards | Closing remarks and drinks in nearby hostelry 
+~~~
+ 
+
+The meeting was held in room D1.07 the Zeeman Building -- number 39 on the
+[http://www2.warwick.ac.uk/about/visiting/maps/campusmap/ campus map].
+
+=== Organisers
+
+- Keith Briggs (BT)
+- Richard Clegg (UCL)
+- Colm Connaughton (University of Warwick)
+
+=== Attending meeting
+
+- Peter Bull (Loughborough University)
+- Lilia Carolina Carneiro da Costa (University of Warwick)
+- Ewan Colman (Brunel University)
+- Leon Danon (University of Warwick)
+- Manlio De Domenico (University of Birmingham)
+- Emad Elmahdy - (King Saud University)
+- Tim Evans (Imperial College)
+- Erol Gelenbe (Imperial College)
+- Gordon Govan (Herriot-Watt University)
+- Tim Griffin (Cambridge University)
+- Lin Guan (Loughborough University)
+- Fred Hoffman (Oxford University)
+- Uli Harder (Imperial College)
+- Thomas House (University of Warwick)
+- Nicholas Jackson (University of Warwick)
+- Matt Keeling (University of Warwick)
+- Vito Latoro (Queen Mary, University of London)
+- Antonio Lima (University of Birmingham)
+- Athen Ma (Queen Mary, University of London)
+- Robert MacKay (University of Warwick)
+- Stephen Marshall (UCL)
+- Raul Mondragon (Queen Mary, University of London)
+- Mirco Musolesi (University of Birmingham)
+- Matthew Felice Pace (University of Warwick)
+- Ben Parker (University of Southampton)
+- Dragana Pavolvic (University of Warwick)
+- Tiago Periera (Imperial College)
+- Joseph Spring (University of Hertfordshire)
+- James West (UCL)
+- Graham Wood (University of Warwick)
+- Shaomin Wu (Cranfield University)
+- Martin Wylie (Southampton City Council)
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" 
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  
+

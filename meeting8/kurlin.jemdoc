@@ -1,0 +1,33 @@
+# jemdoc: title{MoN8: Eighth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN8: Eighth Mathematics of Networks meeting -- 18th September 2009, Cambridge University
+
+== Vitaliy Kurlin (Durham) -- Connectivity of random 1-dimensional networks
+
+An important problem in wireless sensor networks
+is to find a minimal number of randomly deployed sensors
+making a network connected with a given probability.
+In practice sensors are often deployed one by one along
+a trajectory of a vehicle, so it is natural to assume
+that arbitrary probability density functions of
+distances between successive sensors are given.
+
+A random distribution of sensors can be especially
+useful for monitoring long riversides and boundaries
+of restricted areas that are difficult of access.
+The paper computes the probability of connectivity of
+1-dimensional networks and gives explicit estimates for
+a minimal number of sensors for important distributions.
+The paper is available in the arXiv (arXiv:0710.1001) and
+at [http://maths.dur.ac.uk/~dma0vk/Research/connect.pdf].
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

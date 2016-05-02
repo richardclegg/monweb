@@ -1,0 +1,21 @@
+# jemdoc: title{MoN8: Eighth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN8: Eighth Mathematics of Networks meeting -- 18th September 2009, Cambridge University
+
+== Glenford Mapp (Middlesex) -- Exploring Markov models for gate-limited service and their application to network-based services
+
+Our present model of distributed computing is built around network-based services. However, as yet, we do not have good analytical models for such systems. One way of analysing such systems is by using gate-limited queuing models. However, practical solutions for gate-limited models have not been readily available.
+
+ This talk looks at development of a new Markov Model for gated-limited service. An approximate solution is presented by making use of the Standard Partial Batch model. The solution is then applied to a system designed for video-on-demand applications which are served over the network using pre-fetching techniques. Finally the effects of different network types as well as different network loads are also examined. 
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

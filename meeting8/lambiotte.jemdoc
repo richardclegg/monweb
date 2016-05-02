@@ -1,0 +1,19 @@
+# jemdoc: title{MoN8: Eighth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN8: Eighth Mathematics of Networks meeting -- 18th September 2009, Cambridge University
+
+== Renaud Lambiotte (Imperial) -- Dynamics and hierarchical structure in networks
+
+The complex structure of many social, information and biological networks is underpinned by communities at different scales. These topological modules are often indicative of underlying features and functionalities, such as tightly-knit groups of metabolites or species in biological networks. The presence of well-defined communities also has an effect on the dynamics taking place on a network. A variety of methods and measures have been proposed to uncover these modules, most notably modularity and spectral partitioning. However, these approaches are based on structural, static properties of the network. Here we introduce a definition for the quality of the partition of a network that is based on the statistical properties of a dynamical process taking place on the graph. This measure, denoted the stability of the partition, has an intrinsic dependence on the time-scale of the process, which can be used to uncover community structures at different resolutions. The stability extends and unifies standard community detection algorithms. In particular, both modularity and spectral partitioning are shown to have a dynamical interpretation in the case of undirected networks and can be seen as limiting cases of the stability. Similarly, several multi-resolution methods correspond to linearisations of our measure at short times. In the case of directed networks, however, stability differs from modularity by its non-local nature as it is based on the persistence of probabilistic flows in modules. We apply our method to find multi-scale partitions for different examples and show that the stability can be computed efficiently through the use of extended versions of current algorithms that can deal with large networks.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

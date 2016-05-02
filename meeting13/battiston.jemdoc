@@ -1,0 +1,40 @@
+# jemdoc: title{MoN13: Thirteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN13: Thirteenth Mathematics of Networks meeting, Wednesday 10th September, Imperial
+
+== Federico Battiston (QMUL) Structural measures for multiplex networks  
+
+=== Coauthors Vincenzo Nicosia and Vito Latora (QMUL)
+
+Many real-world systems consist of simple units connected through a variety of different
+relationships. For instance, the same set of individuals in a social system can be connected through
+friendship, collaboration, kinship, communication, commercial and co-location relationships, just
+to name some of them, while in complex multimodal transportation systems, which are typical
+of large metropolitan areas, a set of locations might be reached in several different ways, e.g.
+using bus, underground, suburban rail, riverboat networks and the like. In these systems, each
+kind of interaction has associated a peculiar relevance, importance, cost, distance or meaning,
+so that such systems can be represented as multi-layer networks, or multiplexes, where each
+node appears in all layers and each layer includes all the edges of the same kind. In this work
+we propose several basic measures to characterise the structure of multiplexes, including their
+degree distributions, edge overlap, node clustering, reachability and centrality. All the proposed
+measures are tested and validated on a genuinely multiplex real-world social data set, the Top
+Noordin Terrorist Network, which includes detailed information about mutual trust, common
+operations, exchanged communications and business involvement of 78 Indonesian terrorists. We
+quantify the importance of each node in the network by taking into account either his total
+number of connections and his participation in the different activities, distinguishing individuals
+focused on given activities from multi-tasking individuals. We show that one of the four layers,
+namely the trust layer, acts as a driver for the others, with the existence of trust between two
+individuals fostering the formation of links in other layers. This result can be explained in terms of
+social reinforcement, and reveals important details about the overall dynamics of edge formation
+and strengthening in the multiplex. Since in multiplex networks transitivity may arise by the
+interaction of different layers, we also introduce and study multi-layer clustering showing the
+existence of a highly non-trivial triadic organisation across the different levels of the system.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

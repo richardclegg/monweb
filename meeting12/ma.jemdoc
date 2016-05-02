@@ -1,0 +1,21 @@
+# jemdoc: title{MoN12: Twelfth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN12: Twelfth Mathematics of Networks meeting
+
+== Athen Ma (Queen Mary, University of London) -- Can a not-the-most-connected scientist still be important?
+
+Networks with small-world properties, such as the World Wide Web or Power utilities suppliers, often exhibit a good level of resistance to random failures, but are much more susceptible to malicious attacks \[1,2\]. Studies to identify vulnerable points in complex networks usually are based on centrality measures where high centrality nodes have been seen as the weak points when attacking a network \[3-5\]. Recent evidence provided by Ghedini and Ribeiro \[6\] has suggested that, in some networks, the removal of lower degree nodes can also cause network instability that can lead to reduced network efficiency and fragmentation. 
+
+The notion of communities has been exploited to characterise a network’s structure. Communities can be hierarchical and at the edges of communities, nodes with multiple (community) memberships are often found, resulting in overlapping communities. Removing overlapping nodes at the boundary areas would fracture a network into different components. The aim is to find these “overlapping” nodes within communities as these nodes sustain the overall network robustness. 
+
+We have developed a network tearing approach to locate “cuts” in a network. These nodes are then used to define the robustness of the communities and the network. Nodes found at a community’s boundary are referred to as “cut-nodes” and have a gradient of degree values. We quantify the importance of a node by referring their inter- and intra-community connectivity. Results show that removing the inter-communities cut-nodes disjoints the network due to the isolation or splitting of the communities. This fragmentation has a significant impact on the network efficiency. This is in stark contrast to the removal of intra-community nodes, though with high degrees, they have a negligible effect on the network robustness. When applied to the network of scientific collaborators \[7\], our results show that a not-the-most-connected scientist can also be key to the network \[8\]. 
+
+- \[1\] R. Pastor-Satorras, A. Vazquez, A. Vespignani, Dynamical and correlation properties of the internet, Physical Review Letters 87 (2001) 258701.
+- \[2\] R. Albert, I. Albert, G. Nakarado, Structural vulnerability of the North American power grid, Physical Review E 69 (2004) 025103.
+- \[3\] R. Albert, H. Jeong, A. Barabasi, Error and attack tolerance of complex networks, Nature 406 (2000) 378–382.
+- \[4\] S. Sun, Z. Liu, Z. Chen, Z. Yuan, Error and attack tolerance of evolving networks with local preferential attachment, Physica A: Statistical and Theoretical Physics 373 (2007) 851–860.
+- \[5\] M. Perc, Evolution of cooperation on scale-free networks subject to error and attack, New Journal of Physics 11 (2009) 033027.
+- \[6\] C. Ghedini, C. Ribeiro, Rethinking failure and attack tolerance assessment in complex networks, Physica A: Statistical Mechanics and its Applications (2011).
+- \[7\] M. Newman, Finding community structure in networks using the eigenvectors of matrices, Physical Review E 74 (2006) 036104.
+- \[8\] A. Ma and R.J. Mondragón, Evaluation of network robustness using a node tearing algorithm, Physica A, Vol. 391 (24) 2012  pp. 6674-6681

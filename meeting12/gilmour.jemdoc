@@ -1,0 +1,17 @@
+# jemdoc: title{MoN12: Twelfth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN12: Twelfth Mathematics of Networks meeting
+
+==  Steve Gilmour (Southampton) -- Optimal design of experiments on social networks 
+
+Joint work with Ben Parker and John Schormans
+
+We investigate how connections between subjects in a social network affect the design of
+experiments on those subjects. Specifically, where we have unstructured
+treatments, whose effect propagates according to a linear network effects
+model, we show that optimal designs are no longer necessarily
+balanced; we further demonstrate how experiments which do not take a network
+effect into account can lead to much higher variance than necessary and/or a large
+bias.
+

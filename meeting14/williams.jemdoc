@@ -1,0 +1,17 @@
+# jemdoc: title{MoN14: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14: Fourteenth Mathematics of Networks meeting
+
+== Matt J Williams (UCL/Birmingham) Spatio­temporal complex networks: reachability, centrality, and robustness
+
+While recent advances in the modelling of spatial and temporal networks have enabled more-accurate descriptions of many real-world systems, existing approaches do not capture the combined constraint that space and time impose on the relationships and interactions present in a spatio-temporal network. This results, for example, in an over-simplification of the robustness of a system and obscures its true structure. Here, we introduce and evaluate a new framework for analysing spatio-temporal networks. We define reachability using a constrained propagation process over a time-varying network of interaction speeds between spatially embedded nodes. The framework provides an elegant means of quantifying the topological, temporal, and spatial properties of a network. With this framework we numerically investigate the response of real-world systems to random failure and systematic attack.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

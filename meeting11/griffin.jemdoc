@@ -1,0 +1,42 @@
+# jemdoc: title{MoN11: Eleventh Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN11: Eleventh Mathematics of Networks meeting, 20th July University of Warwick
+
+== Timothy G. Griffin (University of Cambridge) -- Local optimality in algebraic path problems, with help from Coq + Ssreflect.
+
+Due to complex policy constraints, some Internet routing protocols
+are associated with non-standard metrics that fall outside
+of the approach to path problems based on semirings
+and "globally optimal" paths.  Some of these exotic metrics can be
+captured by relaxing the semiring axioms to include algebras that
+are not distributive.  A notion of "local optimality" can be defined
+for such algebras as a fixed-point of a matrix equation, and this
+models well they type of solutions required by Internet routing
+protocols.
+
+In this talk I'll present a proof that Dijkstra's algorithm can be used
+to solve path problems for local optimality over some non-distributive
+algebras.   A proof of this appeared in \[1\], but I will discuss a more
+recent proof done with the Coq \[2\] theorem prover and the
+Ssreflect \[3\] extension.  I'll comment on my experiences using these
+tools and suggest that others may find them helpful in formalising
+combinatorial algorithms.
+
+\[1\] Routing in Equilibrium. João Luís Sobrinho and Timothy G. Griffin.
+[http://www.cl.cam.ac.uk/~tgg22/publications/routing_in_equilibrium_mtns_2010.pdf The 19th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2010)]
+
+\[2\] [http://coq.inria.fr/]
+
+\[3\] [http://www.msr-inria.inria.fr/Projects/math-components]
+
+
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

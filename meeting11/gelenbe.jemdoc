@@ -1,0 +1,23 @@
+# jemdoc: title{MoN11: Eleventh Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN11: Elevent Mathematics of Networks meeting, 20th July University of Warwick
+
+== Erol Gelenbe (Imperial College)
+
+Our digital society relies on commerce, work, food provisioning, transportation,energy, information, 
+social and data networks, and many more, that interact to make the system as a whole "work". 
+For the first time in human history, all of these networks have a common mediator and representation 
+system: the information and data networks. Thus we can envision to model and understand these 
+complex networks together as an observable and formal mathematical system. This talk will present 
+a possible approach based on stochastic networks that leads to closed form mathematical solutions.
+We will illustrate the approach through specific results fornetworks that simultaneously model commerce,
+transportation and communications.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

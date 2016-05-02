@@ -1,0 +1,20 @@
+# jemdoc: title{MoN14: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14: Fourteenth Mathematics of Networks meeting
+
+== Garvin Haslett (Southampton) Planar growth generates scale free networks
+
+We introduce a new model of spatial network growth in which nodes are sequentially placed at locations selected randomly upon the Euclidean plane with new connections to old nodes formed subject to the constraint that edges do not cross each other. Numerical experiments demonstrate that the resulting network has a power law degree distribution, high clustering and the small world property. The significance of this result lies in the fact that, at present, there is only one example in the literature of a mechanism in which the scale free distribution ensues when nodes are placed uniformly at random in R^2.
+
+We argue that these characteristics are a consequence of two features of our mechanism; growth and planarity conservation. We then investigate the robustness of our findings by relaxing the planarity. Specifically, we allow edges to cross with a defined probability. Varying this probability demonstrates a smooth transition from a power law to an exponential degree distribution.
+
+We further propose that our model can be understood as a variant of Random Apollonian growth. Continuing this line of investigation we define a family of networks which has the fractal Deterministic Apollonian network and the Random Apollonian network as end points in a space defined by a single control parameter. Our process can then be seen both as a midpoint in an interpolation between these two extremes and a generalisation of Apollonian growth where the degree of attachment of a new node is less than 3.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

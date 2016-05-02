@@ -1,0 +1,42 @@
+# jemdoc: title{MoN14: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14: Fourteenth Mathematics of Networks meeting
+
+== Jingyan Yu (Leeds) Modelling the evolution of road networks
+
+Abstract: Increasing efforts are made to understand quantitatively the time and
+space evolution of road networks. A series of models [1-5] were proposed to
+simulate the evolution of road networks; with simple evolutionary mechanisms, they
+were able to generate network patterns visually and statistically similar to road
+networks. These models lead to great insights into how space matters in the
+evolution process of road networks. Based on these models, this study proposes a
+simple algorithm to simulate the evolution of road networks and investigates how
+proximity relationship between network components affects the structure of the
+generated network patterns which further demonstrates the role space plays in the
+evolution.
+
+1. Barthélemy, M. and A. Flammini, Modeling urban street patterns. Physical
+review letters, 2008. 100(13): p. 138702.
+
+2. Barthélemy, M. and A. Flammini, Co-evolution of density and topology in a
+simple model of city formation. Networks and spatial economics, 2009. 9(3):
+p. 401-425.
+
+3. Courtat, T., C. Gloaguen, and S. Douady, Mathematics and morphogenesis of
+cities: A geometrical approach. Physical Review E, 2011. 83(3): p. 036106.
+
+4. Rui, Y., et al., Exploring the patterns and evolution of self-organized urban
+street networks through modeling. The European Physical Journal B, 2013.
+86(3): p. 1-8.
+
+5. Runions, A., et al., Modeling and visualization of leaf venation patterns. ACM
+Trans. Graph., 2005. 24(3): p. 702-711.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

@@ -1,0 +1,29 @@
+# jemdoc: title{MoN10: Tenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN10: Tenth Mathematics of Networks meeting, 16th September, Loughborough University
+
+== Mike Smith (York) - Proof of convergence of a natural splitting-rate adjustment algorithm in models of telecommunication and transportation networks
+
+The talk proves the following convergence result.
+
+Suppose that for each destination and each node and each pair of exit 
+links from that node, traffic flow (to the destination) swaps from the 
+more costly exit link to the less costly exit link at a rate which is 
+proportional to the flow on the more costly exit link times the 
+difference in costs between the two exit links. Then under natural 
+conditions the link flow pattern converges to an approximate equilibrium.
+(For each exit link, the exit link cost here is the flow-weighted cost to
+the destination via that exit link.)
+
+
+It will be shown that the conditions used to prove the theorem are in 
+a sense necessary; by giving a counterexample. 
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

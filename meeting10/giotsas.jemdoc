@@ -1,0 +1,36 @@
+# jemdoc: title{MoN10: Tenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN10: Tenth Mathematics of Networks meeting, 16th September, Loughborough University
+
+== Vasileios Giotsas  (UCL) - Inferring AS relationships from BGP attributes
+
+Business relationships between autonomous systems (AS) 
+are crucial for Internet routing. Existing algorithms used heuristics 
+to infer AS relationships from AS topology data. In this paper we 
+propose a different approach to infer AS relationships from more 
+informative data sources, namely the BGP Community and Local 
+Preference attributes. These data contain rich information on AS 
+routing policies and therefore closely reflect AS relationships. We 
+accumulate the BGP data from RouteViews, RIPE RIS and route servers 
+in August 2010 and February 2011. We infer the AS relationships for 
+39% of links that are visible in our BGP data. They cover the majority 
+of links among the Tier-1 and Tier-2 ASes. The BGP data also allow us 
+to discover special relationship types, namely hybrid relationship, 
+partial-transit relationship, indirect peering relationship and backup 
+links. Finally we evaluate and analyse the problems of the existing 
+inference algorithms.
+
+The talk is based on the papers
+[http://arxiv.org/abs/1106.2417 Inferring Internet AS Relationships Based on BGP Routing Policies]
+and [http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p424.pdf
+Detecting and Assessing the Hybrid IPv4/IPv6 AS Relationships].
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

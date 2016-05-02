@@ -1,0 +1,47 @@
+# jemdoc: title{MoN13: Thirteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN13: Thirteenth Mathematics of Networks meeting, Wednesday 10th September, Imperial
+
+== Valerio Ciotti (QMUL) Homophily and social dependence: Revisiting mechanisms of tie creation in social networks
+
+=== Co-authors: Vito Latora and Pietro Panzarasa (QMUL)
+
+A number of network growth mechanisms have been suggested to explain how social connections are forged and
+severed over time. Among these mechanisms, a key role is played by homophily, namely the principle that similarity
+breeds connection. Homophily has been empirically documented in a variety of domains, including marriage, friendship,
+work advice, support, and information transfer. Among the various forms of homophily, cognitive homophily suggests
+that social interactions between individuals arise as a result of their similarity and convergence on the same ideas,
+beliefs, interests, and mental attitudes. While homophily boasts a long intellectual tradition in the social sciences,
+other studies have pointed in the opposite direction. For example, organisational ecologists and economists have
+suggested that similarity can lead to competition for scarce resources. According to this research tradition, competition
+among organizations using similar strategies, of similar size, and in geographical proximity with one another tends to be
+stronger than competition among dissimilar organizations. We extend the ecological argument to the cognitive domain,
+and examine the effects that cognitive similarity has on social interaction among individuals. To this end, we analyse
+how the cognitive similarity among users in an online forum affects the probability that they will communicate with
+one another. Our study draws on a dataset from an online social network of users from the University of California,
+Irvine, who posted messages to a variety of discussion groups. Based on the content analysis of the messages, we
+measure the cognitive similarity between all pairs of users in terms of the semantic distance between the words posted
+by users, regardless of which groups they belong to. Two users are cognitively but not socially connected when they
+post semantically related words, but do not share any group in the forum. We use cognitive similarities to construct the
+cognitive network, and examine its effects on whether and how social interaction unfolds over time. If homophily were
+the only force governing tie creation, we should expect some increasing function linking the probability of tie creation
+to cognitive similarity: people who are similar would be more likely to communicate with one another than dissimilar
+people. By contrast, our findings suggest that homophily seems to affect tie creation, but only up to a certain threshold,
+beyond which the effects of similarity seem to reverse. Users with highly similar beliefs, meanings, and interpretations
+are not likely to provide each other with the information they seek, and therefore direct their attention to other
+less cognitively similar partners. These findings thus suggest that there may be some other concurrent mechanism
+that combines with homophily to affect how relationships between users are created. In order to cast light on these
+reversed effects of homophily on tie creation, we propose a model that integrates homophily, social influence, and
+social dependence into a unified growth mechanism underpinning the evolution of a social network over time. Through
+a number of numerical simulations, we show how the model produces results that are consistent with the empirical
+findings. We discuss the implications of our model for research on homophily and, more generally, on the evolution of
+complex social networks.
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

@@ -1,0 +1,13 @@
+Title: On the master route problem
+
+Abstract:
+Assume that a company has a set of customers to which it delivers products 
+on a regular basis. Each day, however, the list of customers to be served 
+is only a proper subset of the set of all customers. The company would 
+like to design a master route to serve all customers.  A route is called a 
+master route, if (i) it is an optimal route, and (ii) the ordering of 
+customers remains optimal even after deleting any subset of the customers. 
+Some time ago we gave a complete characterization of cases when the 
+problem can be solved efficiently. In our talk we discuss the structure of 
+networks for which the master route problem can be solved efficiently.
+

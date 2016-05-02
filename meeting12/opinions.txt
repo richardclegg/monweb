@@ -1,0 +1,134 @@
+RANK:
+1st 2) "Can a not-the-most-connected scientist still be important?"
+2nd 9) "The Anatomy of a Scientific Rumor"
+3rd 5) "Polymer physics for route optimisation on the London underground"
+4th 7) "Optimal design of experiments on social networks"
+
+5th 10) "Similarity Prediction of Networked Data"
+6th 6) "A novel null model to test the significance of features of sampled networks."
+7th 4) "Exploring visibility networks in Iron Age and Roman Southern Spain with Exponential Random Graph Models"
+8th 3) "Hierarchical spectral clustering of power grids"
+9th 8) "On Twitter conversations"
+
+10th 10) "An Identification of the Dynamical States of Road Traffic in Signalised Urban Networks based on Chaos Theory"
+
+11th 1) "Every child can be a rocket scientist - how connected computation can make it happen"
+
+* 1) Daniel Maxwell (no affiliation given)
+"Every child can be a rocket scientist - how connected computation can make it happen"
+
+Off theme, waffly... 
+DEFINITE REJECT
+
+* 2) Athen Ma (Queen Mary, University of London)
+"Can a not-the-most-connected scientist still be important?"
+
+On theme, looks rigorous.  Ideal for us.
+DEFINITE ACCEPT
+
+* 3) Ruben Sanchez-Garcia (Southampton)
+"Hierarchical spectral clustering of power grids"
+
+Not much detail provided.  Off theme but appears interesting work.
+Hard to judge from what we have.
+
+ACCEPT IF ROOM
+
+* 4) Tom Brughmans (Southampton)
+"Exploring visibility networks in Iron Age and Roman Southern Spain with Exponential Random Graph Models"
+Arguably on theme (just).  Interesting new theme for MoN.  Not sure 
+what the mathematical basis is other than ERGM.
+
+ACCEPT IF ROOM
+
+* 5) David Saad (Aston) 
+"Polymer physics for route optimisation on the London underground"
+Off theme.  Extremely interesting work to me.  Looks to have some new techniques.
+
+DEFINITE ACCEPT
+
+* 6) Andrew Elliott (Oxford)
+"A novel null model to test the significance of features of sampled networks."
+Off theme but a potentially interesting subject.  Looks like sound work.
+
+ACCEPT IF ROOM
+
+* 7) Steve Gilmour (Southampton)
+"Optimal design of experiments on social networks"
+On theme, related to Ben's work which I know is interesting but not too many
+details provided
+
+DEFINITE ACCEPT
+
+8) Danicia Greetham (Reading)
+"On Twitter conversations"
+On theme but not too many details provided.
+
+ACCEPT ONLY IF ROOM
+
+* 9) Antonio Lima (Birmingham)
+"The Anatomy of a Scientific Rumor"
+On theme and potentially interesting.  Scant on detail but enough to make me very interested.
+
+DEFINITE ACCEPT
+
+* 10) Mark Herbster (UCL)
+"Similarity Prediction of Networked Data"
+Off theme but I am really interested in seeing this.  Looks like sound work.
+
+ACCEPT IF ROOM
+
+11) Abraham Narh (Newcastle)
+"An Identification of the Dynamical States of Road Traffic in Signalised Urban Networks based on Chaos Theory"
+Off theme.  Looks to be just using state space reconstruction on road data but
+perhaps it is doing more.  Not sure there is a "Networks" aspect.
+
+PROBABLY REJECT
+
+
+
+Possible timetable -- 7 talks
+
+10:00 - 10:45 Welcome + Coffee
+10:45 - 11:30 Talk 1
+11:30 - 12:15 Talk 2
+12:15 - 13:00 Talk 3
+13:00 - 14:00 Lunch
+14:00 - 14:45 Talk 4
+14:45 - 15:30 Talk 5
+15:30 - 16:00 Coffee 
+16:00 - 16:45 Talk 6
+16:45 - 17:30 Talk 7
+17:30 - 17:40 Wrap up + drinks in nearby...
+
+Possible timetable -- 8 talks
+
+10:00 - 10:40 Welcome + Coffee
+10:40 - 11:20 Talk 1
+11:20 - 12:00 Talk 2
+12:00 - 12:40 Talk 3
+12:40 - 13:40 Lunch
+13:40 - 14:20 Talk 4
+14:20 - 15:00 Talk 5
+15:00 - 15:40 Talk 6
+15:40 - 16:10 Coffee 
+16:10 - 16:50 Talk 7
+16:50 - 17:30 Talk 8
+17:30 - 17:40 Wrap up + drinks in nearby...
+
+
+Possible timetable -- 9 talks
+
+10:00 - 10:40 Welcome + Coffee
+10:40 - 11:20 Talk 1
+11:20 - 12:00 Talk 2
+12:00 - 12:40 Talk 3
+12:40 - 13:40 Lunch
+13:40 - 14:10 Talk 4
+14:10 - 14:50 Talk 5
+14:50 - 15:30 Talk 6
+15:30 - 15:50 Coffee 
+15:50 - 16:30 Talk 7
+16:30 - 17:10 Talk 8
+17:10 - 17:50 Talk 9
+17:50 - 18:00 Wrap up + drinks in nearby...

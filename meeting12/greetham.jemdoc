@@ -1,0 +1,24 @@
+# jemdoc: title{MoN12: Twelfth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN12: Twelfth Mathematics of Networks meeting
+
+== Danica Vukadinovic Greetham (Reading) -- On Twitter conversations 
+
+Twitter is both a micro-blogging service and a platform for public
+conversation. Direct conversation is facilitated in Twitter through
+the use of @'s (mentions) and replies. While the conversational
+element of Twitter is of particular interest to the marketing sector,
+relatively few data-mining studies have focused on this area. We analyse
+conversations associated with reciprocated mentions that take place in
+a data-set consisting of approximately 4 million tweets collected over
+a period of 28 days that contain at least one mention. We ignore tweet
+content and instead use the mention network structure and its
+dynamical properties to identify and characterise Twitter
+conversations between pairs of users and within larger groups. We
+consider conversational balance, meaning the fraction of content
+contributed by each party. The goal of this work is to draw out some
+of the mechanisms driving conversation in Twitter, with the potential
+aim of developing conversational models.
+
+ 

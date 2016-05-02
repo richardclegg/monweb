@@ -1,0 +1,105 @@
+# jemdoc: title{MoN14 2015: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14 2015: Fourteenth Mathematics of Networks meeting -- Oxford University
+
+The 14th Mathematics of Networks meeting (MoN14) took place  
+at Oriel College, University of Oxford, on Monday 21st September 2015.  Thanks to Justin Coon for acting as local host for MoN14. 
+
+The meeting was in conjunction with the new EPSRC funded project entitled 
+[http://www.eng.ox.ac.uk/sen/ 'Spatially Embedded Networks'] led by 
+Justin Coon (Oxford) and Carl Dettmann (Bristol).  The theme of this
+MoN was Spatially Embedded Networks [http://www.eng.ox.ac.uk/sen/about.html (overview of project)].
+
+== About Mathematics of Networks
+
+MoN is an informal [../ series of meetings] that has now been running 
+since 2003. The series encourages interdisciplinary communication 
+in networking research. It is an excellent venue for presenting new 
+ideas or gaining a wider audience for established research. 
+Presentations on any aspect of networking are welcomed, 
+particularly if the techniques or conclusions are applicable in 
+other networking disciplines.  Attendance is free of cost.
+
+Information and slides from previous meetings 
+[../ is available].
+
+To receive updates on this meeting or to hear about future meetings 
+in the series, please join the 
+[http://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=mon&A=1 mailing list].
+
+== MoN14 abstracts and slides
+
+The talk slides and abstracts are linked from this timetable.
+
+~~~
+{}{table}{montable}
+Justin Coon (Oxford) Entropy of random geometric graphs [coon.html abstract] | [coon.pdf slides (PDF)]  ||
+Carl Dettmann, Orestis Georgiou (Bristol) Border effects in ad-hoc networks [dettmann.html abstract] | [dettmann.pdf slides part 1 (PDF)] \| [orestis.pptx slides part 2 (Powerpoint)] ||
+James Clough, Tim Evans (Imperial) Networks embedded in Lorentzian spaces [clough.pdf abstract (PDF)] | [clough_slides.pdf slides (PDF)] ||
+Garvin Haslett (Southampton) Planar growth generates scale free networks [haslett.html abstract] | [haslett.pdf slides (PDF)] ||
+Jingyan Yu (Leeds) Modelling the evolution of road networks [yu.html abstract] | [yu.pdf slides (PDF)] \| [yu.ppt slides (PPT)] ||
+Florian Klimm (Oxford) Individual nodeʼs contribution to the mesoscale of complex networks [klimm.html abstract] | [klimm.pdf slides (PDF)] ||
+Matt J Williams (UCL/Birmingham) Spatio­temporal complex networks: reachability, centrality, and robustness [williams.html abstract] | [williams.pdf slides (PDF)]
+~~~
+
+
+== Organisers
+
+- Keith Briggs (BT)
+- Richard Clegg (Imperial)
+- Justin Coon (Oxford)
+
+== Registered participants
+
+- Soroosh Afyouni (Warwick)
+- Ben Allen (e-Therapeutics)
+- Gaojie Chen (Surrey)
+- James Clough (Imperial)
+- Li Dai (Portsmouth)
+- Shuping Dang (Oxford)
+- Carl Dettmann (Bristol)
+- Tim Evans (Imperial)
+- Orestis Georgiou (Bristol)
+- Alexander Giles (Bristol)
+- Yu Gong (Loughborough)
+- Danica Vukadinovic Greetham (Reading)
+- Garvin Haslett (Southampton)
+- Dene Hedges (Oxford)
+- Brendan Jackson (e-Therapeutics)
+- Mikko Kivelä (Oxford)
+- Vasiliki Koutra (Southampton)
+- Florian Klimm (Oxford)
+- Bing Li (Surrey)
+- Eduardo Lopez (Oxford)
+- Raul Mondragon (QMUL)
+- Se-Wook Oh (Oxford)
+- Ben Parker (QMUL)
+- Pete Pratt (Bristol)
+- Jordi Ripoll (Girona)
+- Joan Saldaña (Girona)
+- Adam Sardar (e-Therapeutics)
+- David Simmons (Oxford)
+- Alistair Spence (Bath)
+- Joseph Spring (Hertfordshire)
+- Jake Stroud (Oxford)
+- Phil Tee (Sussex)
+- Adrian Waller (Thales UK)
+- Naqueeb Ahmed Warsi (Oxford)
+- Matt Williams (Birmingham/UCL)
+- Jonathan Weissman (Bristol)
+- Matt J Williams (UCL/Birmingham) 
+- Zheng Xie (Bath)
+- Hachem Yassine (Oxford)
+- Hyejin Youn (Oxford)
+- Jingyan Yu (Leeds) 
+- Hector Zenil (Oxford)
+- Lei Zhang (Surrey)
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" 
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  
+

@@ -1,0 +1,22 @@
+Title:  Inference for origin-destination matrices of transport networks: a Bayesian approach
+
+Abstract:
+
+Information on the origin-destination (OD) matrix of a transport
+network is a fundamental requirement in much transportation planning. A
+relatively inexpensive method to update an OD matrix is to draw inference
+about the OD matrix based on a single observation of traffic flows on a
+specific set of network links, where the Bayesian approach is a natural
+choice to combine the prior knowledge about the OD matrix and the current
+observation of traffic flows. The existing approaches of Bayesian modeling
+of OD matrices include using normal approximations to Poisson distributions
+which leads to the posterior being intractable even under some simple
+special cases, and/or using MCMC simulation which incurs extreme demand of
+computational efforts. In this paper, through the EM algorithm, Bayesian
+inference is reinvestigated for a transport network to estimate the
+population means of traffic flows, reconstruct traffic flows, and predict
+future traffic flows. It is shown that the resultant estimates have very
+simple forms with minimal computational costs incurred.
+
+
+

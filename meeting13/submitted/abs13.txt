@@ -1,0 +1,4 @@
+Title: Individual vs. Social Heuristics:  Exploring Strategies of Optimal Information Sharing and Pooling in Stochastic Unstructured Networks
+
+Abstract:
+We investigate various strategies of information foraging and pooling behaviour of biologically inspired agents in an unstructured network where resources vary in abundance. The dynamics of coexisting cooperative and non-cooperative agents give rise to fluctuating local and global states which result in constant self-organisation and adaptation to these fluctuations. Using game theoretic, behavioural and evolutionary underpinnings we quantify this behaviour and observe spatial and temporal strategies that evolve over time and help in achieving sub-optimal local and global throughput of the network. 

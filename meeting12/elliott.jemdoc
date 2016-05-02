@@ -1,0 +1,35 @@
+# jemdoc: title{MoN12: Twelfth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN12: Twelfth Mathematics of Networks meeting
+
+== Andrew Elliott -- (Oxford) A novel null model to test the significance of features of sampled networks.
+
+Network sampling is used in many different fields such as Physics, Sociology and Biology to create sub-networks that are believed to be related to a property of interest. To assess whether the subnetwork indeed
+captures some information we need to compare it to subnetworks which are generated at random, from a
+suitable null model. Thus we are concerned with null models for sampling techniques that are based on
+a list of nodes known as a seed list. However, the effect of network sampling on even fairly simplistic
+network statistics is poorly understood. In particular, a popular null model, the configuration model, is not
+appropriate for sampled networks as it does not preserve the structure of the sampling process.
+
+Here, we propose a different null model which is appropriate for estimating the significance of summary
+statistics on seed list sampled network structure.The null model in question involves comparing the statistic
+of interest against an ensemble of networks constructed using a set of randomly chosen seed lists with the
+same approximate degree sequence as the seed list in question. Here we need to avoid artificially inflated
+seed lists which can occur by including nodes as seeds which are already in the subnetwork. As we are
+interested in features of the subsample e.g. a smaller clustering than would be expected at random, we must
+control for seed list construction. To control for seed list choice, we propose removing all seed nodes that
+are not required to construct the subsample (redundant seed nodes).
+
+We have explored the effect of these additional seed nodes in two ways. Firstly, we have taken randomly
+selected seed lists and selectively added or removed seed nodes which do not change the network structure
+but change the significance of our tests. Secondly we have taken seed lists motivated by real world data
+sets in the form of disease gene data from the OMIM database and data in University Facebook networks.
+We have demonstrated that in real world examples the redundant seed nodes do have a strong impact on the
+significance of a general set of network statistics, and therefore should be taken into account.
+
+When controlling for redundant seeds we are indeed able to select subnetworks that capture some information which is specific to the disease or the Facebook network. We are also able to discriminate between
+different techniques for constructing subnetworks, namely snowball sampling and shortest path constructions.
+
+Thus we believe we have created a null model which can be used to evaluate the significance of summary
+statistics of seed list sampled network structure.

@@ -1,0 +1,37 @@
+Title: Analysing indirect reciprocity in overlay networks
+
+Abstract:
+
+Overlay networks are built by installing standalone software in many
+internet-attached hosts, thus creating a new network between these hosts
+that uses the Internet as a substrate. With overlay networks it is possible
+to have much greater control and flexibility on the creation and
+maintenance of the network topology. However, this comes at a great
+decentralization price: each node in the network is under the control of a
+different administrative entity, and thus strategic behavior can become a
+hindrance to the deployment of overlay network protocols. As a consequence,
+it becomes necessary to design incentive mechanisms that allow strategic
+peers to coordinate while still maximizing their own utilities.
+
+A usual policy to achieve this is "Tit-for-Tat", where each peer
+reciprocates to other peers that have altruistically provided services in
+the past. Tit-for-Tat, however, does not scale well to dynamic networks
+where peers interact basically among strangers. A possible technique that
+can be applied in this case is indirect reciprocity, where the contribution
+that a peer gets from the peer-to-peer system is provided by peers
+different to those to whom it contributed in the past.
+
+Although indirect reciprocity  is a well known technique in peer-to-peer
+protocol design. However, the modeling and game theoretical analysis of the
+contribution flows that make it possible are not well understood.
+We propose techniques to use indirect reciprocity as an incentive mechanism
+for peer-to-peer networks, and for the modeling and game theoretical
+analysis of the contribution flows that make it possible. First, we present
+an analytic framework for peer-to-peer contribution flow geometry and its
+application to indirect reciprocity. This framework is based on the
+adaptation of well-known differential operators to a graph-theoretical
+setting. Second, we propose a utility function for QoS-aware peer-to-peer
+overlays operating under indirect reciprocity, and calculate the peer best
+response peer contributions as a function of the service quality that other
+peers can provide and overlay topology parameters.
+

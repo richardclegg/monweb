@@ -1,0 +1,40 @@
+# jemdoc: title{MoN11: Eleventh Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN11: Eleventh Mathematics of Networks meeting, 20th July University of Warwick
+
+== Manlio de Domenico (Birmingham) -- Interdependence and predictability of human mobility and social interactions
+
+The study of the interdependence of human movement and social ties of 
+individuals is one of the most interesting research areas in 
+computational social science. Previous studies have shown that 
+human movement is predictable to a certain extent at different 
+geographic scales. One of the open problems is how to improve 
+the prediction exploiting additional available information. In 
+particular, one of the key questions is how to characterise and 
+exploit the correlation between movements of friends and 
+acquaintances to increase the accuracy of the forecasting algorithms. 
+We discuss the results of our recent analysis of the Nokia Mobile Data 
+Challenge dataset showing that by means of multivariate nonlinear 
+predictors it is possible to exploit mobility data of friends in 
+order to improve user movement forecasting. This can be seen as a 
+process of discovering correlation patterns in networks of linked 
+social and geographic data. We also show how mutual information can 
+be used to quantify this correlation. We demonstrate how to use this 
+quantity to select individuals with correlated mobility patterns in 
+order to improve movement prediction. We show that the exploitation 
+of data related to friends improves dramatically the prediction with 
+respect to the case of information of people that do not have social 
+ties with the user. Finally, we discuss how movement correlation is 
+linked to social interactions, in terms of colocation and number of 
+phone calls between individuals.
+
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

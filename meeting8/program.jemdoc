@@ -1,0 +1,100 @@
+== MoN8: Mathematics of Networks Eight (Cambridge)
+
+=== Timetable
+
+~~~
+{}{table}{montable}
+10:30 -- 11:00 | Welcome and coffee ||
+*Session 1* | *Internet Theme* -- Chair Tim Griffin ||
+11:00 -- 11:45 | Ahmed Shaikh (Aston) -- Significance of second-order statistics in Markov internet traffic modelling ||
+11:45 -- 12:30 | Glenford Mapp (Middlesex) -- Exploring Markov models for gate-limited service and their application to network-based services ||
+12:30 -- 13:30 | Lunch ||
+*Session 2* | *Social Networks Theme* -- Chair Raul Mondragon ||
+13:30 -- 14:15 | Danica Greetham (Unilever) -- Simulating word-of-mouth influence on individual physical activity||
+14:15 -- 15:00 | Shi Zhou (UCL) -- Second-order mixing in networks  ||
+15:00 -- 15:30 |  Coffee Break ||
+*Session 3* | *Graph Theme* -- Chair Gustav Delius||
+15:30 -- 16:15 | Renaud Lambiotte (Imperial) -- Dynamics and hierarchical structure in networks  ||
+16:15 -- 17:00 | Vitaliy Kurlin (Durham) -- Connectivity of random 1-dimensional networks  ||
+17:00 | Closing remarks and drinks in nearby hostelry 
+~~~
+
+
+=== Ahmed Shaikh (Aston) - Significance of second-order statistics in Markov internet traffic modelling
+
+As major network operators migrate from the traditional circuit switched networks to the converged IP network, global IP traffic is set to grow at a very rapid pace. This calls for efficient methods of analysis and modelling of IP traffic. Most of the IP traffic analysis is performed with the aid of mathematical traffic models which can be set up for simulation in order to emulate the network sources. In order to provide reliable, valid and realistic modelling data for analysis, the IP traffic models used should capture as many features of the network as possible through measured results.
+
+The traffic models mainly deal with two main parameters for modelling and understanding the network behaviour, namely the packet sizes and the packet inter-arrival distributions. The packet inter-arrival times are particularly significant since it gives the timing structure of the network, evaluates the effect of Round Trip Time on the network, provides a good idea of the underlying network protocol and application, and also highlights any abnormal or unexpected behaviour of the network, thus making it extremely useful for network forensics. Traditionally Poisson distribution and Pareto distribution models have been used to model the packet arrival times. Eventually Markov Models also became a popular method of modelling traffic as each state in the Markov Model can be associated with a packet source in the network, and the network can be modelled with a finite number of sources, with exponential inter-arrival times of packets. The simplest Markov Model, a two-state Markov Model based on the packet inter-arrival times can be associated with a client-server model where a REQ packet is acknowledged with an ACK packet. Model complexity increases with increasing number of states and we initially show how some measured results can be better represented by simplified low order Semi-Markov Models with Gaussian distributions derived from the Poisson Markov Models.
+
+The use of Joint density plots (Second order statistics) for the Inter-packet times,  reveals that there is a lot more information available from them which the first order statistics do not provide, such as presence of periodic processes and the order of the packet sequences. For example, a TCP packet in one direction is always likely to be followed by an ACK packet in the other direction, and while this is not indicated by first order statistics, it can be easily observed with the use of second order statistics. To stress the significance of the joint density plots, we show how two Markov Models with states emitting packets randomly and in sequence respectively have exactly the same Probability Density plots, yet totally different Joint density plots which provide information on the underlying sequence of packets in the network. We also show how these Markov Models can be used to model other specific features observed from the measured second order statistics and present relevant conclusions.
+
+=== Glenford Mapp (Middlesex) -- Exploring Markov models for gate-limited service and their application to network-based services
+
+Our present model of distributed computing is built around network-based services. However, as yet, we do not have good analytical models for such systems. One way of analysing such systems is by using gate-limited queuing models. However, practical solutions for gate-limited models have not been readily available.
+
+ This talk looks at development of a new Markov Model for gated-limited service. An approximate solution is presented by making use of the Standard Partial Batch model. The solution is then applied to a system designed for video-on-demand applications which are served over the network using pre-fetching techniques. Finally the effects of different network types as well as different network loads are also examined. 
+ 
+=== Danica Greetham (Unilever) -- Simulating word-of-mouth influence on individual physical activity
+
+We want to model external social network influence on individual physical activity behaviour. We use the agent-based approach - each individual is represented by an agent and social network between them is given in advance and it does not change during the simulation. We compared effects of different theoretical and empirical underlying social networks’ topologies.
+
+ 
+
+Each agent has a continuous variable representing behaviour measured as a number of hours of physical exercises per week and two continuous (abstract) values representing ideal and actual self. An agent’s goal is to improve difference between ideal and actual self by doing some amount of physical activity. The social network effect is introduced using a model of dual threshold, where an individual is “persuaded” to do the activity if the percentage of his neighbours doing it is higher than the first threshold, and if the percentage is lower than the second threshold, he/she is persuaded to abstain from physical activity.  We than introduce another variable which represents an agent’s intention toward doing behaviour and look at the effects of different social networks topologies to intention and behaviour separately.
+
+ 
+
+Both models (behaviour only and behaviour and intention) were implemented in NetLogo and simulations were run with different distributions of thresholds and values for individual actual and ideal selves.
+
+=== Shi Zhou (UCL) -- Second-order mixing in network
+
+An analysis of several large social networks suggests that
+there is truth to the adage "it's who
+you know." Previous work showed that nodes in a social network prefer
+to mix with nodes of similar
+importance, it being assumed that the number of links to a node is a
+measure of the node's
+prominence. However, we report a very much stronger relationship. If
+two nodes are connected and we
+look at each node's most prominent neighbour, very likely these two
+neighbours have almost
+identical importance.  In fact, much of the time, they are one and the
+same node. Moreover, this
+property holds across a wide range of prominence values, and across a
+wide variety of social
+networks. The property is weaker or absent in other types of networks
+such as the Internet and
+protein interactions. Our work reveals a new  dimension to the
+hierarchical structure present in
+social networks, i.e. comparing with the number of people we know,
+collaboration is much more
+strongly determined by our single most important contact.
+
+=== Renaud Lambiotte (Imperial) -- Dynamics and hierarchical structure in networks
+
+The complex structure of many social, information and biological networks is underpinned by communities at different scales. These topological modules are often indicative of underlying features and functionalities, such as tightly-knit groups of metabolites or species in biological networks. The presence of well-defined communities also has an effect on the dynamics taking place on a network. A variety of methods and measures have been proposed to uncover these modules, most notably modularity and spectral partitioning. However, these approaches are based on structural, static properties of the network. Here we introduce a definition for the quality of the partition of a network that is based on the statistical properties of a dynamical process taking place on the graph. This measure, denoted the stability of the partition, has an intrinsic dependence on the time-scale of the process, which can be used to uncover community structures at different resolutions. The stability extends and unifies standard community detection algorithms. In particular, both modularity and spectral partitioning are shown to have a dynamical interpretation in the case of undirected networks and can be seen as limiting cases of the stability. Similarly, several multi-resolution methods correspond to linearisations of our measure at short times. In the case of directed networks, however, stability differs from modularity by its non-local nature as it is based on the persistence of probabilistic flows in modules. We apply our method to find multi-scale partitions for different examples and show that the stability can be computed efficiently through the use of extended versions of current algorithms that can deal with large networks.
+
+=== Vitaliy Kurlin (Durham) -- Connectivity of random 1-dimensional networks
+
+An important problem in wireless sensor networks
+is to find a minimal number of randomly deployed sensors
+making a network connected with a given probability.
+In practice sensors are often deployed one by one along
+a trajectory of a vehicle, so it is natural to assume
+that arbitrary probability density functions of
+distances between successive sensors are given.
+
+A random distribution of sensors can be especially
+useful for monitoring long riversides and boundaries
+of restricted areas that are difficult of access.
+The paper computes the probability of connectivity of
+1-dimensional networks and gives explicit estimates for
+a minimal number of sensors for important distributions.
+The paper is available in the arXiv (arXiv:0710.1001) and
+at http:\/\/maths.dur.ac.uk\/\~dma0vk\/Research\/connect.pdf.
+
+=== Acknowledgements
+
+Thank you to all participants and to Tim Griffin for hosting
+the meeting.
+

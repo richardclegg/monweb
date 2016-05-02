@@ -1,0 +1,20 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== Philip Trinder (Heriot-Watt) - Analysis of redundant movements in collections of autonomous mobile programs
+
+Distributed load balancers exhibit thrashing where tasks are repeatedly moved between locations due to incomplete global load information. This talk shows that networks of Autonomous Mobile Programs (AMPs) exhibit the same behaviour, and identifies two types of redundant movement, termed greedy effects. 
+
+We establish three new properties of balanced networks of AMPs: independent balance, singleton and consecutive optimality. The properties are used to provide a theoretical analysis of greedy effects. An example theorem states that, after an AMP terminates in a heterogeneous network of q subnetworks, the number of redundant movements during rebalancing does not exceed $q − 1$. 
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

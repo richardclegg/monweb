@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<html>
+  <head>
+    <TITLE>Mathematics of Networks --- 6th Meeting
+</TITLE>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style>
+    	body {background-color: ffffff;}
+    	p {margin-left:2%;}
+    </style>
+  </head>
+  <body>
+   <h1>Rashid Mehmood -- Abstract</h1>
+<h3>Continuous time Markov chains</h3>
+<p>Continuous time Markov chains (CTMCs) are a widely used formalism for
+the performance analysis of computer systems and communication networks.
+Many stochastic systems can be modelled as a CTMC, and the CTMC can be
+analysed using, for instance, probabilistic model checking. Required or
+desired performance properties are specified as formulas in the temporal
+logic CSL and then automatically verified using the appropriate model
+checking algorithms. Traditional methods for performance analysis
+typically require the generation, storage, and the processing of the
+underlying state space for the numerical solution. The numerical
+solution phase can be reduced to the solution of linear equation systems
+of the form Ax=0.</p>
+<p>
+CTMC models for even trivial real-life systems are usually huge, and
+both the amount of required memory and the time to compute the solution
+pose a major difficulty. In this talk, we present computational
+techniques to alleviate the state space explosion problem. The
+techniques extend the size of analysable models on a single workstation
+and on multiple machines. We discuss explicit and symbolic methods which
+relax the storage limitations of contemporary techniques and are able to
+extend the size of solvable models by an order of magnitude. We also
+discuss a sparse storage scheme which provides 30% or more savings over
+the conventional sparse schemes and improves the solution speed.
+Furthermore, we present modifications to multi-terminal binary decision
+diagrams (MTBDDs), a symbolic data structure for storing CTMCs. The
+modifications improve the time and memory properties of this data
+structure, and allow an efficient implementation of the Gauss-Seidel
+iterative method, which was not possible previously. Using the discussed
+techniques, we demonstrate analysis of models with over 1.2 billion
+states and 16 billion transitions on a single and multiple workstation.
+Currently, models of such sizes cannot be solved on a contemporary
+workstation using conventional techniques.
+</p>
+</body>
+<hr />
+<tail> Page modified May 2007 by Richard G. Clegg</tail>
+
+</html>

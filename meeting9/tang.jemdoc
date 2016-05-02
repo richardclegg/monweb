@@ -1,0 +1,29 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== John Tang (Cambridge) - Studying mobile and social networks through time-aware network analysis
+
+The study of important nodes in social and technological networks is an important research question, however the current state-of-the-art is based on static or aggregated models of the network topology.  We argue that dynamically evolving network topologies are inherent in many systems, including real online social and technological networks: fortunately the nature of these systems is such that they allow the gathering of large quantities of fine-grained temporal data on interactions amongst the network members.
+
+In this talk we shall present a temporal graph model and reformalise the concepts of shortest paths taking into account time information such as duration, frequency and time order.  From this we propose novel temporal centrality metrics which take into account such dynamic interactions over time.  These metrics can be applied to a large variety of dynamic networks, including mobile networks, online social networks, and in general, for the study of human interactions.  In particular, using a real corporate email dataset we evaluate the important individuals selected by means of static and temporal analysis taking two perspectives: firstly, from a semantic level, we investigate their corporate role in the organisation; and secondly, from a dynamic process point of view, we measure information dissemination and the role of information mediators.  We find that temporal analysis provides a better understanding of dynamic processes and a more accurate identification of important people compared to traditional static methods. 
+
+== Biography
+John Tang is an EPSRC Doctoral Student at the Computer Laboratory, University of Cambridge.  
+His research lies in temporal extensions to complex network analysis motivated by the need 
+for more realistic models to analyse many technological, social and biological systems 
+which change over time. Prior to starting his PhD, John graduated in Computer Science from 
+UCL in 2006 and worked for two years as a technologist in the banking industry.  More 
+details of his research are available  
+[http://www.cl.cam.ac.uk/~jkt27 here].
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+ 

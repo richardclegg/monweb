@@ -1,0 +1,43 @@
+# jemdoc: title{MoN11: Eleventh Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN11: Elevent Mathematics of Networks meeting, 20th July University of Warwick
+
+== Gordon Govan (Herriot-Watt University) -- A critical study of network models for neural networks
+
+In this research we take a critical look at the network models used to
+replicate neural networks.  As case study we consider the neural network of C.
+elegans.  In the following we refer to this network as the target network.  We
+chose this network because it is relatively small (306 nodes and approximately
+9000 edges), its topology is completely known and it has been extensively used
+as a benchmark for several studies.  We computed several topological features
+of this neural network and we tested its dynamics under different stimuli when
+it is regarded as a random recurrent neural network. Then, using known network
+models, we generated networks having topological features as similar as
+possible to our case study, we treated these networks as random recurrent
+neural networks, and we tested their dynamics under different stimuli.
+
+We found out that there is very little relation between similarities in
+dynamics and similarities in topology between our case study and the generated
+networks.  This means that similar dynamics between a particular generated
+network and the target network do not imply similar topology.  Also the
+opposite does not hold true: artificial networks having topological features
+similar to the target network do not share similar dynamics.
+
+The present research poses more questions than it actually answers and,
+overall, our findings can be summarised saying that none of the current network
+models seem to be appropriate to replicate the target network.  If one wants to
+have networks similar (both in topology and dynamics) to the target network,
+then it is better to obtain other network simply perturbing (i.e., applying a
+filter/noise) the edges of the target network.  Put in different terms, this
+research let us realise even more the pitfalls in which it is possible to fall
+when trying to replicate complex networks.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

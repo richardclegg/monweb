@@ -1,0 +1,50 @@
+# jemdoc: title{MoN13: Thirteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN13: Thirteenth Mathematics of Networks meeting, Wednesday 10th September, Imperial
+
+==  Pietro Panzarasa (QMUL) Simmelian brokerage and social capital: Reconciling social cohesion and structural holes 
+
+=== Co-authors: Vito Latora, Vincenzo Nicosia (QMUL)
+
+In the social sciences, the debate over the structural foundations of social capital 
+has long vacillated between two positions on the relative benefits associated 
+with two types of social structures: closed structures, rich in third-­‐party 
+relationships, and open structures, rich in structural holes and brokerage 
+opportunities. On the one hand, proponents of the benefits of closed structures 
+draw on the idea that social cohesion sustains trust, a sense of belonging, 
+cooperative behaviour, the enforcement of social norms, and the creation of a 
+common culture. On the other, advocates of the value of open structures 
+emphasise the information and control benefits that actors can extract from 
+brokering between otherwise disconnected others. We engage with this debate 
+by focusing on the measures with which the two conceptions of social capital 
+have traditionally been formalised: clustering and effective size. While clustering 
+has typically been used for measuring the extent to which a node is embedded 
+within a closed cohesive structure, effective size is a measure for detecting the 
+non-­‐redundancy of a node's contacts, and therefore the degree to which the 
+node's local neighbourhood is rich in structural holes. We show that clustering 
+and effective size are simply two sides of the same coin, as they can be expressed 
+one in terms of the other through a simple functional relation. Drawing upon this 
+relation, and in qualitative agreement with the organisational literature on 
+Simmelian ties, we then develop a novel measure -­‐ Simmelian brokerage -­‐ for 
+detecting a generative mechanism of social capital that lies at the interface 
+between closed and open structures. Being sensitive not only to the number of 
+links in a node's local network, but also to variations in the position of links 
+across local networks of the same density, Simmelian brokerage captures 
+opportunities of brokerage between otherwise disconnected groups of densely 
+interconnected nodes. By detecting the extent to which a node belongs to 
+multiple groups that are tightly knit and disconnected from each other, 
+Simmelian brokerage dovetails with the idea that multiple group-­‐affiliations 
+enable a node to extract social capital from the underlying structure by blending 
+social cohesion with structural holes. Implications of our findings for research on 
+social capital and complex networks are discussed.  
+
+	
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 

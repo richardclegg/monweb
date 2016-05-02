@@ -1,0 +1,40 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== Keith Briggs (BT Research) - Optimal trip-planning in transport systems with random delays
+
+This is joint work with Peter Kin Po Tam, Birmingham
+University
+ 
+Public transport systems are likely to be always subject to delays, and
+a disincentive to passengers is the complexity of planning journeys in
+the presence of such uncertainty.  Most people, especially when making
+an important journey, want to arrive at a specific time, with a bounded
+probability of being a specific number of minutes late. This kind of
+planning is impossible with current ticket-purchase systems.
+ 
+We have developed a precise mathematical model of such a system.   There
+are two main difficulties to be tackled - to develop an appropriate
+mathematical model of the transport system incorporating the delay data,
+and to implement the resulting optimization algorithm efficiently.  Our
+mathematical model uses data collected from the real-time website to
+build a separate stochastic model of train performance on every route.
+This is a kind of "learning" phase, which runs continually in the
+background.     We then have a generic model that computes probability
+distributions for passengers passing through the system and changing
+trains.     The result is a new concept of the Green's function of a
+railway station.   This is the kernel of an integral transform which is
+used to propagate probability distributions through stations.
+  
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

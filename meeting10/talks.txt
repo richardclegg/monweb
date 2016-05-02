@@ -1,0 +1,166 @@
+1) Vasileios Giotsas (UCL) -- "Inferring AS relationships from BGP attributes"
+
+Business relationships between autonomous systems (AS) 
+are crucial for Internet routing. Existing algorithms used heuristics 
+to infer AS relationships from AS topology data. In this paper we 
+propose a different approach to infer AS relationships from more 
+informative data sources, namely the BGP Community and Local 
+Preference attributes. These data contain rich information on AS 
+routing policies and therefore closely reflect AS relationships. We 
+accumulate the BGP data from RouteViews, RIPE RIS and route servers 
+in August 2010 and February 2011. We infer the AS relationships for 
+39% of links that are visible in our BGP data. They cover the majority 
+of links among the Tier-1 and Tier-2 ASes. The BGP data also allow us 
+to discover special relationship types, namely hybrid relationship, 
+partial-transit relationship, indirect peering relationship and backup 
+links. Finally we evaluate and analyse the problems of the existing 
+inference algorithms.
+
+Talk based on  http://arxiv.org/abs/1106.2417.
+
+2) Alexander Hartmann (Oldenburg) -- "Large deviation properties of random graphs"
+
+The large-deviation properties of different types of random graphs are studied
+using numerical simulations.
+
+First, distributions of the size of the largest
+component, in particular the large-deviation tail,
+ are studied  numerically for two graph ensembles,
+for Erdoes-Renyi random graphs 
+with finite connectivity and for two-dimensional bond percolation. 
+Probabilities as small as 10^-180 are accessed 
+ using an artificial finite-temperature (Boltzmann)
+ensemble and applications of the Wang-Landau algorithm. 
+The distributions for  the Erdoes-Renyi ensemble
+agree well with previously obtained analytical
+results. The results for the percolation problem, where no analytical results
+are available, are qualitatively similar, but the shapes of the distributions
+are somehow different and the finite-size
+corrections are sometimes much larger. Furthermore, for both problems,
+a first-order phase transition
+at low temperatures T within the artificial ensemble is found in the
+percolating regime, respectively.
+
+Second, the distributions of the diameter are presented. Here,
+ partial analytic results are available
+from previous studies for Erdoes-Renyi random graphs in the small 
+connectivity region. The numerical results follow a Gumbel distribution 
+and agree well with the analytics. For higher
+connectivities, where no analytic results are available, 
+the simulation results show that the distributions
+are qualitatively different from the low connectivity region. This is
+also connected to a first-order phase transition within the associated
+finite-temperature ensemble.
+
+3) Sergey Frenkel, (Russian Academy of Sciences, Moscow) 
+"Logical and probabilistic aspects of automata networks verification"
+
+Automata network models are used widely for various computer systems  
+design and verification, from Network on the Chip (NoC) up to 
+corporative networks.  Now ,in fact, verification of logically-described  
+properties and  probabilistic analysis of fault-tolerance properties  
+are performed separately what increases essentially the design overall cost.
+This talk suggests a way of joint using of semi-formal target design specification 
+for verification of these two groups of requirements at rather early stages 
+of design process.
+We show what kind of information can be borrowed from  a formal (or semi-formal) 
+specification of the network for  Model Checking-based timing properties 
+verification in order to build in a semi-automatic way a Markov chain, 
+describing the automata network transitions in the presence of some 
+transient or permanent faults. The possibility of the Markovian approach 
+to the network of interacting automata is shown. This approach is based 
+on extended of state space of the automata network that allows to express 
+distribution probability functions of fault manifestation latency and 
+self-healing time in terms of some probabilistic characteristics of the 
+network components. Some questions of computational complexity are 
+considered.
+
+4) Mike Smith (York)
+"Proof of convergence of a natural splitting rate adjustment algorithm 
+in models of telecommunication and transportation networks"
+
+The talk proves the following convergence result.
+
+Suppose that for each destination and each node and each pair of exit 
+links from that node, traffic flow (to the destination) swaps from the 
+more costly exit link to the less costly exit link at a rate which is 
+proportional to the flow on the more costly exit link times the 
+difference in costs between the two exit links. Then under natural 
+conditions the link flow pattern converges to an approximate equilibrium.
+
+It will be shown that the conditions used to prove the theorem are in 
+a sense necessary; by giving a counterexample. 
+
+5) Ben Parker (QMUL) "Design of Networked Experiments"
+	
+We consider experiments on a number of subjects, and examine how the 
+links between subjects in an experiment affect the optimal design. For 
+example, in a marketing experiment, it is reasonable to believe that a 
+product may be preferred more by a subject whose 'friend' also prefers 
+that product, and we may wish to use this 'friendship' information to 
+improve our design.
+
+We present optimal designs to measure both the direct effect and the 
+network effect. We discuss how the structure of the network has a large 
+influence on the optimal design, but show that even if we know many 
+properties of the network, as represented by the eigenvalues of a graph, 
+we cannot determine an absolute design.
+
+We present examples based on marketing experiments, and show how the 
+results can be applied to experiments in social sciences and elsewhere.
+
+6) Neils Hoffmann 
+"A dynamic stochastic multipath network decision process: A framework which
+addheres to the central limit theorem throughout a network"
+
+
+The DV3 framework for routing pedestrians in complex networks has been used
+since the beginning of the 90ties in modelling passenger flows and densities
+in railway stations, airports and at major events such as
+Olympic/Commonwealth games and a million plus population at the projected
+Mecca expansion . The method is shown to be a probit model dealing
+appropriately with multiple paths and their correlation, reflecting the
+behaviour of infinitely many travellers. This is achieved by combining E(X)
+and V(X) in an assignment process over the network as an integral part of
+the tree/vine building process towards each destination subject to no
+circular path being generated. In the process splitting rate/progression
+probabilities are calculated at each stage  from E, V and C, where
+C=capacity or quality factor. A deterministic function for calculating Path
+Progression Probabilities PPP= G(E,V,C) is presented and shown to give
+results corresponding well with the equivalent Monte Carlo simulation
+probabilities. C deals with the problem of the well-known IIA problem.
+Finally, each destination process enables travellers from everywhere to
+reach its destination by evaluating multiple paths at every stage of the
+progression either by flow or individual agents.
+Since the process is linear in E and V we assume that changes to journey
+times in the simulation/model is scalable and the process hence able to cope
+with the dynamics of a seamless update of simulated or observed journey
+times.
+
+7) Olaf Maennel (Loughborough)
+"10 Lessons from 10 Years of Measuring and Modeling the Internet’s 
+Autonomous Systems"
+
+Formally, the Internet inter-domain routing system
+is a collection of networks, their policies, peering relationships
+and organizational affiliations, and the addresses they advertize.
+It also includes components like Internet exchange points. By its
+very definition, each and every aspect of this system is impacted
+by BGP, the de-facto standard inter-domain routing protocol.
+The element of this inter-domain routing system that has
+attracted the single-most attention within the research commu-
+nity has been the “inter-domain topology”. Unfortunately, almost
+from the get go, the vast majority of studies of this topology,
+from definition, to measurement, to modeling and analysis, have
+ignored the central role of BGP in this problem. The legacy is a
+set of specious findings, unsubstantiated claims, and ill-conceived
+ideas about the Internet as a whole.
+By presenting a BGP-focused state-of-the-art treatment of the
+aspects that are critical for a rigorous study of this inter-domain
+topology, we demystify in this paper many “controversial”
+observations reported in the existing literature. At the same
+time, we illustrate the benefits and richness of new scientific
+approaches to measuring, modeling, and analyzing the inter-
+domain topology that are faithful to the BGP-specific nature of
+this problem domain.
+

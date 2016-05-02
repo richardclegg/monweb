@@ -1,0 +1,32 @@
+# jemdoc: title{MoN9: Ninth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN9: Ninth Mathematics of Networks meeting, 18th June, St Andrews University
+
+== Richard Clegg (UCL) - Likelihood methods for comparing network evolution models
+
+In the last twelve years a number of models have been proposed which
+``explain" the evolution of networks.  Most notably, for example, the
+rewiring model of a Watts--Strogatz small world network and the
+preferential attachment model which Albert and Barabasi used to
+explain power laws in degree distributions.  
+
+
+This presentation describes a rigorous statistical method using
+likelihood estimates to compare two rival explanations for the
+evolution of a given target network.  The method, known as FETA
+(Framework for Evolving Topology Analysis) is statistically rigorous
+and can assess which of several rival models is the most likely
+explanation for a given target data set.  The method is tested on
+several target networks.  Free code and data are provided at
+[http://www.richardclegg.org/software/FETA the FETA webpage.]
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+

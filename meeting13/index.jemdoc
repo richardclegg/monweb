@@ -1,0 +1,114 @@
+# jemdoc: title{MoN13 2014: Thirteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN13 2014: Thirteenth Mathematics of Networks meeting -- Imperial College London 
+
+The thirteenth Mathematics of Networks meeting took place on Wednesday 10th
+September 2014 at Imperial College in London.  
+Thanks to Tim Evans for acting as local organiser. 
+MoN13 was supported by the EPSRC 
+[http://www2.warwick.ac.uk/fac/sci/physics/research/cfsa/epsrc_networkplus UK Network on Emergence and Physics far from equilibrium].
+
+== Attending Mathematics of Networks
+
+Registration is now closed but to ask about future MoN meetings please contact
+[mailto:richard@richardclegg.org Richard G. Clegg]  and [mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png"
+align="top" height=18 alt="mailto:keith.briggst_at_bt_dot_com">}}].  
+To receive updates on this meeting or to hear about future meetings 
+in the series, please join the 
+[http://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=mon&A=1 mailing list].
+
+== Talk slides
+
+The talk slides and abstracts are linked from this timetable.
+
+~~~
+{}{table}{montable}
+ | *Session 1: The structure of networks*||
+11:15 | Michael T. Schaub (Imperial) Structure of complex networks: Quantifying edge-to-edge relations... [schaub.pdf (Abstract PDF)]  [schaub_slides.pdf (Slides PDF)]||
+12:00 | Massimiliano Zanin (The Innaxis Foundation) Multi-layer functional networks: have we got the basics right? [zanin.html (Abstract)] [zanin.pdf (Slides PDF)] [https://www.dropbox.com/s/g97vq9ua1k6ee1d/MZ%20Multi-layer.pdf?dl=0 (Hi Res slides, Dropbox link)] ||
+| *Session 2: Networks of human activity*  ||
+13:45 | Federico Battiston (QMUL) Structural measures for multiplex networks  [battiston.html (Abstract)] [battiston.pdf (Slides PDF)] ||
+14:15 | Valerio Ciotti (QMUL) Homophily and social dependence: Revisiting mechanisms of tie creation in social networks [ciotti.html (Abstract)] ||
+14:45 | Pietro Panzarasa (QMUL) Simmelian brokerage and social capital:  Reconciling social cohesion and structural holes [panzarasa.html (Abstract)] [panzarasa.pdf (Slides PDF)]||
+15:15 | Moreno Bonaventura (QMUL) Interdisciplinarity and specialisation: Roads to scientific success [bonaventura.html (Abstract)] [bonaventura.pdf (Slides PDF)]||
+| *Session 3: Language networks*  ||
+16:00 | Dario Papavassiliou (Warwick) The evolutionary network of the Germanic languages [papavassiliou.html (Abstract)] [papavassiliou.pdf (Slides PDF)] ||
+16:45 | James Clough (Imperial) What is the dimension of citation space? [clough.pdf (Abstract PDF)] [clough_slides.pdf (Slides PDF)] 
+~~~
+
+== About Mathematics of Networks 
+
+Mathematics of Networks is an informal 
+[../ series of meetings] that has now been running for eleven years.
+It encourages
+interdisciplinary communication in networking research.  It is an
+excellent venue for presenting new ideas or gaining a wider audience
+for established research.  Presentations on any aspect of networking are
+welcomed, particularly if the techniques or conclusions are applicable
+in other networking disciplines.  Slides and information from previous
+meetings [../ are available].
+
+
+== Organisers
+
+- Keith Briggs (BT)
+- Richard Clegg (Imperial)
+- Tim Evans (Imperial)
+
+== Confirmed participants
+
+- Ghazal Afroozi-Milani (Imperial)
+- Faizan Ahmad (Cambridge)
+- Jim Allen (Surrey)
+- Frederico Battiston (QMUL)
+- Raj Bhansali (Liverpool)
+- Moreno Bonaventura (QMUL)
+- Valerio Ciotti (QMUL)
+- James Clough (Imperial)
+- Ewan Colman (Reading)
+- Valentin Danchev (Oxford)
+- Carl Dettmann (Bristol)
+- Arnaud Dyevre (LSE)
+- Paul Expert (KCL)
+- Bo Fan (Oxford)
+- Alex Figueiredo (Imperial)
+- Alex Gibberd (UCL)
+- Sophia Goldberg (QMUL)
+- Yiwen Guo (UCL)
+- Vojtech Havlicek (Imperial)
+- David Hunter
+- Gibson Ikoro (Imperial)
+- Henrik Jensen (Imperial)
+- Christine Johnston (UCLA)
+- Vasiliki Koutra (Southampton)
+- Kira Kowalska (UCL)
+- Vito Latora (QMUL)
+- Andrew Leung (City University, Hong Kong)
+- Xueke Lu (QMUL)
+- Athen Ma (QMUL)
+- Kishan Manani (Imperial)
+- Xianglin Meng (Oxford)
+- Ricardo Monti (Imperial)
+- Jeffrey Niall (Imperial)
+- Se-Wook Oh (Oxford)
+- Tsinalis Orestis (Imperial)
+- Pietro Panzarasa (QMUL)
+- Dario Papavassiliou (Warwick)
+- Ben Parker (Southampton)
+- Chris Parker (UCL)
+- Michael T. Schaub (Imperial)
+- Alvis Tang (Imperial)
+- Ashish Umre (Sussex)
+- Nanxin Wei (Imperial)
+- Loe Chuan Wen (Imperial)
+- Graham White (QMUL)
+- Massimiliano Zanin (Innaxis Research Institute)
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" 
+align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  
+

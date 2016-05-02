@@ -1,0 +1,21 @@
+# jemdoc: title{MoN14: Fourteenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN14: Fourteenth Mathematics of Networks meeting
+
+==  Florian Klimm (Oxford) Individual nodeʼs contribution to the mesoscale of complex networks
+
+
+The analysis of complex networks is devoted to the statistical characterization of the topology of graphs at different scales of organization in order to understand their functionality. While the modular structure of networks has become an essential element to better apprehend their complexity, the efforts to characterize the mesoscale of networks have focused on the identification of the modules rather than describing the mesoscale in an informative manner. Here we propose a framework to characterize the position every node takes within the modular configuration of complex networks and to evaluate their function accordingly. For illustration, we apply this framework to a set of synthetic networks and empirical neural networks. We find that the architecture of neuronal networks is optimized for the processing of multisensory information with the coexistence of well-defined modules of specialized components and the presence of hubs conveying information from and to the distinct functional domains. Furthermore, we apply those tools to networks derived from precipitation data during the Indian Summer Monsoon. We find that modules are strongly spatially organized and boundaries between them coincide with natural orographic barriers as the Western Ghats. Lastly, we employ a multi-layer variant of those tools to the European Airline network and show that airports have diverse functional roles in terms of usage across the airlines, shaped by complex interplay between spatial and socio-economical constraints.
+
+The first part of the results us published as 
+Klimm, F., Borge-Holthoefer, J., Wessel, N., Kurths, J., & Zamora-López, G. (2014). Individual nodeʼs contribution to the mesoscale of complex networks. New Journal of Physics, 16(12), 125006.
+and the other parts are ongoing work in cooperation with Veronika Stolbova, Gorka Zamora-López, and Jürgen Kurths
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

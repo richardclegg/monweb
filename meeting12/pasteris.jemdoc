@@ -1,0 +1,45 @@
+# jemdoc: title{MoN12: Twelfth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN12: Twelfth Mathematics of Networks meeting
+
+== Stephen Pasteris (UCL) -- Similarity prediction of networked data
+
+We consider online similarity prediction problems over networked data. The study of networked data has spurred a large amount of research efforts. Applications like spam detection, product recommendation, link analysis, community detection, are by now well-known tasks in Social Network analysis and E-Commerce. In all these tasks, networked data are typically viewed as graphs, where vertices carry some kind of relevant information (e.g., user features in a social network), and connecting edges reflect a form of semantic similarity between the data associated with the incident vertices.
+
+Such a similarity ranges from friendship among people in a social network to common user’s reactions to online ads in a recommender system, from functional relationships among proteins in a protein-protein interaction network to connectivity patterns in a communication network. Coarsely speaking, similarity prediction aims at inferring the existence of new pairwise relationships based on known ones. These pairwise constraints, which specify whether two objects belong to the same class or not, may arise directly from domain knowledge or be available with little human effort.
+
+There is a wide range of possible means of capturing the structure of a graph in this learning context: through combinatorial and classical graph-theoretical methods (e.g., \[GY03\]); through spectral approachs (e.g. \[BMN04, HAvL07\]), using convex duality and resistive geometry (e.g., \[HL09\]), and even algebraic methods (e.g., \[KSB09\]). In many of these approaches, the underlying assumption is that the graph structure is largely known in advance (a kind of “transductive” learning setting), and serves as a way to bias the inference process, so as to implement the principle that “connected vertices tend to be similar.” Yet, this setting is oftentimes unrealistic and/or infeasible. For instance, a large online social network with millions of vertices and tens of millions of edges hardly lends itself to be processed as a whole via a Laplacian-regularized optimization approach or, even if it does (thanks to the computationally powerful tools currently available), it need not be known ahead of time. As a striking example, if we are representing a security agency, and at each point in time we receive a “trace” of communicating individuals, we still might want to predict whether a given pair in the trace belong to the same “gang”/community, even if the actual network of relationships is unknown to us. So, in this case, we are incrementally learning similarity patterns among individuals while, at the same time, exploring the network. Another important scenario of an unknown network structure is when the network itself grows with time, hence the prediction algorithms are expected to somehow adapt to its temporal evolution.
+
+Our results. We study online similarity prediction over graphs in two models. One in which the graph is known a priori to the learner, and one in which it is unknown. In both settings there is an undisclosed labeling of a graph so that each vertex is the member of one of K classes. Two vertices are similar if they are in the same class and dissimilar otherwise. 
+
+The learner receives an online sequence of vertex pairs and similarity feedback. On the receipt of a pair the learner then predicts if the pair is similar. The true pair label, similar or dissimilar, is then received and the goal of the learner is to minimize mistaken predictions. Our aim in both settings is then to bound the number of prediction mistakes over an arbitrary (and adversarially generated) sequence of pairs.
+
+In the model where the graph is known, we first characterize the obtainable bounds for similarity prediction. This is accomplished by showing that our online similarity prediction problem reduces to online class prediction on graphs (e.g., \[HL09, VCBGZ11\], and references therein), and vice versa. However, this reduction does not provide efficient computational constructions (which is a major concern here). The problem then becomes to obtain bounds for algorithms which are computationally efficient. Now motivated to obtain computationally efficient algorithms, we resort to matrix learning algorithms. We show that a suitable adaptation of the Matrix Winnow algorithm \[War07\] readily provides an almost optimal mistake bound. This adaptation amounts to sparsifying the underlying graph G via a random spanning tree, whose diameter is then reduced by a known rebalancing technique \[HLP09, CBGVZ10\]. Unfortunately, with its computational burden (cubic time per round), the resulting algorithm does not provide a satisfactory answer to deployment on large networks. Therefore, we develop an analogous adaptation of a Matrix Perceptron algorithm that delivers a more attractive answer (thanks to its poly-logarithmic time per round), though with an inferior online prediction performance guarantee.
+
+The unknown model is identical to the known one, except that the learner does not initially receive the underlying graph G. Rather, G is incrementally revealed, as now when the learner receives a pair it also receives as side information an adversarially generated path within G connecting the vertices of the pair. Here, we observe that the machinery we used for the known graph case is inapplicable. In this novel setting, we design and analyze an algorithm which may be interpreted as a matrix version of an adaptive p-norm Perceptron \[Gen03\] with the relatively efficient quadratic running time per round.
+
+References:
+- \[BMN04\]
+M. Belkin, I. Matveeva, and P. Niyogi. Regularization and semi-supervised learning on large graphs. In COLT,
+2004.
+- \[CBGVZ10\] N. Cesa-Bianchi, C Gentile, F. Vitale, and G. Zappella. Random spanning trees and the prediction of weighted
+graphs. In Proceedings of the 27th International Conference on Machine Learning (27th ICML), pages 175–182,
+2010.
+- \[Gen03\] C. Gentile. The robustness of the p-norm algorithms. Machine Learning, 53:265–299, 2003.
+- \[GHP13\] C. Gentile, M. Herbster, and S. Pasteris. Online similarity prediction of networked data from known and
+       unknown graphs. In COLT, 2013.
+- \[GY03\] J. L. Gross and J. Yellen. Handbook of graph theory. CRC Press, 2003.
+- \[HAvL07\] M. Hein, J.Y. Audibert, and U. von Luxburg. Graph laplacians and their convergence on random neighborhood
+        graphs. Journal of Machine Learning Research, 8:1325–1368, 2007.
+- \[HL09\] M. Herbster and G. Lever. Predicting the labelling of a graph via minimum p-seminorm interpolation. In
+      Proceedings of the 22nd Annual Conference on Learning Theory (COLT’09), 2009.
+- \[HLP09\] M. Herbster, G. Lever, and M. Pontil. Online prediction on large diameter graphs. In Advances in Neural
+       Information Processing Systems (NIPS 22), pages 649–656. MIT Press, 2009.
+- \[KSB09\] R. Kondor, N. Shervashidze, and K. M. Borgwardt. The graphlet spectrum. In ICML 2009, 2009.
+- \[VCBGZ11\] F. Vitale, N. Cesa-Bianchi, C. Gentile, and G. Zappella. See the tree through the lines: The shazoo algorithm.
+In NIPS, pages 1584–1592, 2011.
+- \[War07\]
+M. K. Warmuth. Winnowing subspaces. In Proceedings of the 24th International Conference on Machine
+Learning, pages 999–1006. ACM, 2007.
+

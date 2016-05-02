@@ -1,0 +1,31 @@
+# jemdoc: title{MoN10: Tenth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN10: Tenth Mathematics of Networks meeting, 16th September, Loughborough University
+
+== Ben Parker (QMUL) - Design of Networked Experiments
+	
+We consider experiments on a number of subjects, and examine how the 
+links between subjects in an experiment affect the optimal design. For 
+example, in a marketing experiment, it is reasonable to believe that a 
+product may be preferred more by a subject whose 'friend' also prefers 
+that product, and we may wish to use this 'friendship' information to 
+improve our design.
+
+We present optimal designs to measure both the direct effect and the 
+network effect. We discuss how the structure of the network has a large 
+influence on the optimal design, but show that even if we know many 
+properties of the network, as represented by the eigenvalues of a graph, 
+we cannot determine an absolute design.
+
+We present examples based on marketing experiments, and show how the 
+results can be applied to experiments in social sciences and elsewhere.
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

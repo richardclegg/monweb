@@ -1,0 +1,27 @@
+# jemdoc: title{MoN11: Eleventh Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN11: Eleventh Mathematics of Networks meeting, 20th July University of Warwick
+
+== Tiago Pereira (Imperial College) -- Hub synchronization in heterogeneous networks
+
+ 
+In most realistic networked systems where synchronization is relevant, 
+synchronization may also be related to pathological activities such as 
+epileptic seizures and strong Parkinson disease in neural networks, 
+to extinction in ecology. In fact, various levels of synchronization are 
+needed to avoid pathological activities and enable a system to have 
+flexibility and robustness. Recently, it has been observed the synchronization 
+may arise between well-connected nodes (hubs) while less connected nodes 
+do not synchronize. We discuss a probabilistic approach towards the 
+explanation of this phenomenon in the limit of  networks of infinite size. 
+
+This is joint work with Jeroen Lamb (Imperial College)
+
+[index.html Return to previous page ]
+
+Contact:
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+or
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org])  

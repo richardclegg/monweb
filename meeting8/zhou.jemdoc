@@ -1,0 +1,40 @@
+# jemdoc: title{MoN8: Eighth Mathematics of Networks meeting}
+# jemdoc: notime
+
+= MoN8: Eighth Mathematics of Networks meeting -- 18th September 2009, Cambridge University
+
+== Shi Zhou (UCL) -- Second-order mixing in network
+
+An analysis of several large social networks suggests that
+there is truth to the adage "it's who
+you know." Previous work showed that nodes in a social network prefer
+to mix with nodes of similar
+importance, it being assumed that the number of links to a node is a
+measure of the node's
+prominence. However, we report a very much stronger relationship. If
+two nodes are connected and we
+look at each node's most prominent neighbour, very likely these two
+neighbours have almost
+identical importance.  In fact, much of the time, they are one and the
+same node. Moreover, this
+property holds across a wide range of prominence values, and across a
+wide variety of social
+networks. The property is weaker or absent in other types of networks
+such as the Internet and
+protein interactions. Our work reveals a new  dimension to the
+hierarchical structure present in
+social networks, i.e. comparing with the number of people we know,
+collaboration is much more
+strongly determined by our single most important contact.
+
+
+
+[index.html Return to previous page ]
+
+Contact:
+[http://www.richardclegg.org/ Richard G. Clegg] ([richard@richardclegg.org]) 
+or 
+[http://keithbriggs.info/ Keith Briggs] 
+([mailto:keith.briggs_at_bt_dot_com {{<img src="keith.briggs_at_bt_dot_com.png" align="top" height=18 alt="mailto:keith.briggs_at_bt_dot_com">}}])
+
+
